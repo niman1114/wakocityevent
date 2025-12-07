@@ -10,7 +10,7 @@
     "crawl": "npx tsx src/crawler/index.ts"
   },
   "dependencies": {
-    "next": "16.0.5",
+    "next": "^16.0.7",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
