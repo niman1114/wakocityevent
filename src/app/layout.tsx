@@ -37,6 +37,9 @@ export const metadata: Metadata = {
     description: "和光市周辺のイベント情報をまとめたポータルサイト。",
     images: ["https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop"],
   },
+  verification: {
+    google: "jx4hdNa-zAGbFXZOkki0__rwmop2k5ODEBQHHTMj5Vk",
+  },
 };
 
 export default function RootLayout({
