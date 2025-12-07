@@ -13,19 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Wako Events | 和光市イベント情報",
+  title: "和光市のイベント情報 | Wako Events",
   description: "和光市周辺のイベント情報をまとめたポータルサイト。公式サイト、サンアゼリア、商工会の最新イベントを一覧でチェックできます。",
   openGraph: {
-    title: "Wako Events | 和光市イベント情報",
+    title: "和光市のイベント情報 | Wako Events",
     description: "和光市周辺のイベント情報をまとめたポータルサイト。公式サイト、サンアゼリア、商工会の最新イベントを一覧でチェックできます。",
     url: "https://wakoevent.vercel.app", // 仮のURL、デプロイ後に確定
-    siteName: "Wako Events",
+    siteName: "和光市のイベント情報",
     images: [
       {
         url: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop", // イベントっぽい画像
         width: 1200,
         height: 630,
-        alt: "Wako Events Banner",
+        alt: "和光市のイベント情報 Banner",
       },
     ],
     locale: "ja_JP",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wako Events | 和光市イベント情報",
+    title: "和光市のイベント情報 | Wako Events",
     description: "和光市周辺のイベント情報をまとめたポータルサイト。",
     images: ["https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop"],
   },

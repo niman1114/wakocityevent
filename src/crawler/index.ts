@@ -12,6 +12,7 @@ interface Event {
     date: string; // YYYY-MM-DD
     categories: string[];
     source: string;
+    imageUrl?: string | null;
 }
 
 async function crawl() {
@@ -198,6 +199,66 @@ async function crawl() {
             allEvents.push(...sciEvents);
         } catch (e) {
             console.error('Error crawling Chamber of Commerce:', e);
+        }
+
+        // --- Wa-Kosodate 25th Anniversary ---
+        try {
+            console.log('Crawling Wa-Kosodate 25th Anniversary...');
+            const targetUrl = 'https://wa-kosodate.com/25syuunen';
+            await page.goto(targetUrl, { waitUntil: 'domcontentloaded' });
+
+            // Since the page is unstructured, we'll extract the full text and use regex
+            const content = await page.textContent('body');
+            if (content) {
+                // Regex to find date like "12月14日"
+                // Looking for patterns like "12月14日日曜日" or similar
+                const dateMatch = content.match(/(\d{1,2})月(\d{1,2})日/);
+
+                // Regex to find title - assuming it's near the top or a specific phrase
+                // Based on inspection: "クリスマスこどもフェス" seems to be the title
+                // Let's look for "クリスマスこどもフェス" specifically or try to grab the first significant text
+                // For now, let's hardcode the title extraction if we find the specific event, 
+                // or try to be more generic if possible. 
+                // Given the user request is specifically for this link which seems to be a single event page:
+
+                let title = "クリスマスこどもフェス"; // Default/Fallback
+                if (content.includes("クリスマスこどもフェス")) {
+                    title = "クリスマスこどもフェス";
+                } else {
+                    // Fallback: try to get the first h1 or h2
+                    const h1 = await page.textContent('h1');
+                    if (h1) title = h1.trim();
+                }
+
+                if (dateMatch) {
+                    const month = dateMatch[1].padStart(2, '0');
+                    const day = dateMatch[2].padStart(2, '0');
+                    const currentYear = new Date().getFullYear();
+
+                    const dateStr = `${currentYear}-${month}-${day}`;
+
+                    // Extract image
+                    let imageUrl: string | null = null;
+                    const images = await page.$$eval('img', imgs => imgs.map(img => img.getAttribute('src')));
+                    const userImage = images.find(src => src && src.includes('userData') && src.includes('original.jpg'));
+                    if (userImage) {
+                        imageUrl = userImage.startsWith('//') ? `https:${userImage}` : userImage;
+                    }
+
+                    allEvents.push({
+                        title: title,
+                        url: targetUrl,
+                        date: dateStr,
+                        categories: ['子育て', 'イベント'],
+                        source: '和光子育てネットワーク',
+                        imageUrl: imageUrl
+                    });
+                    console.log(`Found event: ${title} on ${dateStr} with image: ${imageUrl}`);
+                }
+            }
+
+        } catch (e) {
+            console.error('Error crawling Wa-Kosodate:', e);
         }
 
         // Sort all events by date

@@ -51,7 +51,7 @@ export default function ClientPage({ events }: ClientPageProps) {
             <header className="bg-white border-b border-gray-100 sticky top-0 z-10 backdrop-blur-md bg-white/80">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
                     <h1 className="text-2xl font-bold tracking-tight text-gray-900 cursor-pointer" onClick={() => { setSelectedGenre('all'); setShowBookmarkedOnly(false); }}>
-                        Wako Events
+                        和光市のイベント情報
                     </h1>
                     <div className="w-full max-w-md hidden sm:block">
                         <input
@@ -134,7 +134,7 @@ export default function ClientPage({ events }: ClientPageProps) {
                 {/* Results Count */}
                 <div className="mb-8 flex items-end justify-between border-b border-gray-200 pb-4">
                     <h2 className="text-3xl font-light text-gray-900">
-                        {showBookmarkedOnly ? 'My List' : (selectedGenre === 'all' ? 'Latest Events' : selectedGenre)}
+                        {showBookmarkedOnly ? 'My List' : (selectedGenre === 'all' ? '今後のイベント' : selectedGenre)}
                     </h2>
                     <p className="text-sm text-gray-500 font-medium">
                         {filteredEvents.length} events found
@@ -168,8 +168,13 @@ export default function ClientPage({ events }: ClientPageProps) {
 
                 {/* Footer */}
                 <footer className="mt-24 pt-12 border-t border-gray-200 text-center pb-12">
+                    <div className="mb-8">
+                        <a href="/past" className="text-sm text-gray-500 hover:text-gray-900 transition-colors border-b border-transparent hover:border-gray-300 pb-0.5">
+                            過去のイベントを見る
+                        </a>
+                    </div>
                     <p className="text-gray-400 text-xs tracking-wider uppercase">
-                        Data Sources: Wako City / Sun Azalea / Chamber of Commerce
+                        Data Sources: Wako City / Sun Azalea / Chamber of Commerce / Wa-Kosodate
                     </p>
                     <p className="text-gray-300 text-xs mt-4">
                         Last updated: {new Date().toLocaleDateString('ja-JP')}
