@@ -12,30 +12,34 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const SITE_URL = "https://wakocityevent.vercel.app";
+const SITE_NAME = "和光市のイベント情報";
+const DESCRIPTION =
+  "和光市・和光樹林公園・サンアゼリア・図書館・商工会・駅前マルシェなど、和光市周辺の最新イベント情報を毎日自動更新でまとめたポータルサイト。マルシェ・コンサート・子育て・講座・お祭りを一覧でチェックできます。";
+
 export const metadata: Metadata = {
-  title: "和光市のイベント情報 | Wako Events",
-  description: "和光市周辺のイベント情報をまとめたポータルサイト。公式サイト、サンアゼリア、商工会の最新イベントを一覧でチェックできます。",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "和光市のイベント情報 | Wako Events",
+    template: "%s | 和光市のイベント情報",
+  },
+  description: DESCRIPTION,
+  keywords: ["和光市", "イベント", "和光市駅", "マルシェ", "サンアゼリア", "和光樹林公園", "和光市図書館", "子育て", "お祭り", "コンサート"],
+  alternates: {
+    canonical: "/",
+  },
   openGraph: {
     title: "和光市のイベント情報 | Wako Events",
-    description: "和光市周辺のイベント情報をまとめたポータルサイト。公式サイト、サンアゼリア、商工会の最新イベントを一覧でチェックできます。",
-    url: "https://wakoevent.vercel.app", // 仮のURL、デプロイ後に確定
-    siteName: "和光市のイベント情報",
-    images: [
-      {
-        url: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop", // イベントっぽい画像
-        width: 1200,
-        height: 630,
-        alt: "和光市のイベント情報 Banner",
-      },
-    ],
+    description: DESCRIPTION,
+    url: SITE_URL,
+    siteName: SITE_NAME,
     locale: "ja_JP",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
     title: "和光市のイベント情報 | Wako Events",
-    description: "和光市周辺のイベント情報をまとめたポータルサイト。",
-    images: ["https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop"],
+    description: DESCRIPTION,
   },
   verification: {
     google: "jx4hdNa-zAGbFXZOkki0__rwmop2k5ODEBQHHTMj5Vk",
@@ -48,7 +52,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="ja">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

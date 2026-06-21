@@ -1,7 +1,14 @@
 import fs from 'fs';
 import path from 'path';
+import type { Metadata } from 'next';
 import ClientPage from '../ClientPage';
 import { assignGenresToEvents, type Event } from '@/lib/genreMapping';
+
+export const metadata: Metadata = {
+    title: '過去のイベント',
+    description: '和光市周辺で過去に開催されたイベントの記録一覧。',
+    alternates: { canonical: '/past' },
+};
 
 async function getPastEvents(): Promise<Event[]> {
     const filePath = path.join(process.cwd(), 'data', 'events.json');

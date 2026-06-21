@@ -29,7 +29,61 @@ async function getEvents(): Promise<Event[]> {
   }
 }
 
+const SITE_URL = 'https://wakocityevent.vercel.app';
+
+function buildJsonLd(events: Event[]) {
+  const website = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: '和光市のイベント情報',
+    url: SITE_URL,
+    inLanguage: 'ja',
+    description: '和光市周辺の最新イベント情報を毎日自動更新でまとめたポータルサイト。',
+  };
+
+  const itemList = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: '和光市の今後のイベント',
+    itemListElement: events.slice(0, 50).map((e, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'Event',
+        name: e.title,
+        startDate: e.date,
+        url: e.url,
+        eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+        eventStatus: 'https://schema.org/EventScheduled',
+        ...(e.imageUrl ? { image: e.imageUrl } : {}),
+        location: {
+          '@type': 'Place',
+          name: e.source || '和光市',
+          address: {
+            '@type': 'PostalAddress',
+            addressLocality: '和光市',
+            addressRegion: '埼玉県',
+            addressCountry: 'JP',
+          },
+        },
+        organizer: { '@type': 'Organization', name: e.source || '和光市' },
+      },
+    })),
+  };
+
+  return [website, itemList];
+}
+
 export default async function Home() {
   const events = await getEvents();
-  return <ClientPage events={events} />;
+  const jsonLd = buildJsonLd(events);
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <ClientPage events={events} />
+    </>
+  );
 }
