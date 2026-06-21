@@ -83,7 +83,19 @@ export default async function Home() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <ClientPage events={events} />
+      <ClientPage
+        events={events}
+        intro={
+          <div className="text-gray-600 leading-relaxed text-sm sm:text-base space-y-2">
+            <p>
+              <strong className="text-gray-900">和光市</strong>とその周辺で開催されるイベント情報を、複数の公式サイトから毎日自動で収集してまとめています。
+            </p>
+            <p>
+              和光市駅前の<strong className="font-medium">マルシェ</strong>、サンアゼリアの<strong className="font-medium">コンサート</strong>、和光樹林公園の<strong className="font-medium">屋外イベント</strong>、図書館・公民館の<strong className="font-medium">講座・教室</strong>、<strong className="font-medium">子育て</strong>イベントや<strong className="font-medium">お祭り</strong>まで、ジャンル別・日付順でまとめてチェックできます。
+            </p>
+          </div>
+        }
+      />
     </>
   );
 }

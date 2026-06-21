@@ -7,9 +7,10 @@ import { useBookmarks } from '@/hooks/useBookmarks';
 
 interface ClientPageProps {
     events: Event[];
+    intro?: React.ReactNode;
 }
 
-export default function ClientPage({ events }: ClientPageProps) {
+export default function ClientPage({ events, intro }: ClientPageProps) {
     const [selectedGenre, setSelectedGenre] = useState<string>('all');
     const [searchQuery, setSearchQuery] = useState<string>('');
     const [showBookmarkedOnly, setShowBookmarkedOnly] = useState<boolean>(false);
@@ -77,6 +78,13 @@ export default function ClientPage({ events }: ClientPageProps) {
             </div>
 
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+                {/* Intro (SEO向けの説明文・トップページのみ) */}
+                {intro && (
+                    <section className="mb-10 max-w-3xl">
+                        {intro}
+                    </section>
+                )}
+
                 {/* View Toggle (All vs Bookmarks) */}
                 <div className="flex justify-center mb-8">
                     <div className="bg-gray-100 p-1 rounded-full inline-flex">
@@ -173,8 +181,8 @@ export default function ClientPage({ events }: ClientPageProps) {
                             過去のイベントを見る
                         </a>
                     </div>
-                    <p className="text-gray-400 text-xs tracking-wider uppercase">
-                        Data Sources: Wako City / Sun Azalea / Chamber of Commerce / Wa-Kosodate
+                    <p className="text-gray-400 text-xs tracking-wider">
+                        データ提供元: 和光市公式 / サンアゼリア / 和光市商工会 / 和光樹林公園 / 和光市図書館 / わぴあ / 号外NET 朝霞・和光 / 和光子育てネットワーク
                     </p>
                     <p className="text-gray-300 text-xs mt-4">
                         Last updated: {new Date().toLocaleDateString('ja-JP')}
