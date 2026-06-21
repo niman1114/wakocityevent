@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      actions: write   # keepalive を API モードで使うため
     steps:
       - uses: actions/checkout@v4
 
@@ -40,9 +39,3 @@ jobs:
           else
             echo "No changes to commit"
           fi
-
-      # 60日ルールで再び無効化されないための延命
-      - name: Keepalive
-        uses: gautamkrishnar/keepalive-workflow@v2
-        with:
-          use_api: true
