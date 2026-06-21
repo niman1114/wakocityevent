@@ -77,10 +77,10 @@ export default function ClientPage({ events, intro }: ClientPageProps) {
                 />
             </div>
 
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-12">
                 {/* Intro (SEO向けの説明文・トップページのみ) */}
                 {intro && (
-                    <section className="mb-10 max-w-3xl">
+                    <section className="mb-10 max-w-2xl mx-auto text-center">
                         {intro}
                     </section>
                 )}
