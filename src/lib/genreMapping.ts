@@ -63,8 +63,8 @@ export function assignGenre(event: Event): Event {
         if (genre !== 'その他') break;
     }
 
-    // 画像がない場合はジャンルのデフォルト画像を設定
-    const imageUrl = event.imageUrl || GENRE_MAPPING[genre as keyof typeof GENRE_MAPPING]?.image || GENRE_MAPPING['その他'].image;
+    // 実際のチラシ等の画像があれば使用。無ければ null（カード側でアイコン入りプレースホルダを表示）
+    const imageUrl = event.imageUrl || null;
 
     return { ...event, genre, imageUrl };
 }

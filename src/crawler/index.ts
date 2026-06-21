@@ -21,10 +21,12 @@ async function crawl() {
     const page = await browser.newPage();
 
     try {
+        const allEvents: Event[] = [];
+
+        // --- 和光市公式 イベントカレンダー ---
+        try {
         await page.goto(START_URL);
         console.log(`Navigated to ${START_URL}`);
-
-        const allEvents: Event[] = [];
 
         // Crawl 3 months
         for (let i = 0; i < 3; i++) {
@@ -103,6 +105,9 @@ async function crawl() {
         }
 
         console.log(`Found ${allEvents.length} events from Wako City.`);
+        } catch (e) {
+            console.error('Error crawling Wako City calendar:', e);
+        }
 
         // --- Crawl Sun Azalea ---
         console.log('Starting Sun Azalea crawler...');
@@ -589,6 +594,27 @@ async function crawl() {
             console.error('Error crawling Wapia:', e);
         }
 
+        // 重複イベントの名寄せ（同一日付＋正規化タイトル。複数ソースに跨る重複を除去）
+        const normalizeTitle = (t: string) => t
+            .replace(/[\s　]/g, '')                 // 空白除去
+            .replace(/[（(][^）)]*[）)]/g, '')        // （金）（金曜日）等の括弧を除去
+            .replace(/\d{1,2}\/\d{1,2}/g, '')        // 6/26 等
+            .replace(/\d{1,2}月\d{1,2}日/g, '')      // 6月26日 等
+            .replace(/[「」『』""!！。、,，・~〜\-]/g, '') // 記号類（【】は施設区別のため残す）
+            .toLowerCase();
+        const dedupSeen = new Set<string>();
+        const deduped: Event[] = [];
+        for (const ev of allEvents) {
+            const key = `${ev.date}|${normalizeTitle(ev.title)}`;
+            if (dedupSeen.has(key)) continue;
+            dedupSeen.add(key);
+            deduped.push(ev);
+        }
+        const removed = allEvents.length - deduped.length;
+        allEvents.length = 0;
+        allEvents.push(...deduped);
+        console.log(`Deduplicated: removed ${removed} duplicate(s), ${allEvents.length} remain.`);
+
         // Sort all events by date
         allEvents.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
 
@@ -604,4 +630,7 @@ async function crawl() {
     }
 }
 
-crawl();
+crawl().catch((e) => {
+    // 想定外エラーでもジョブ全体は失敗させない（その日の更新が飛ぶのを防ぐ）
+    console.error('Crawler finished with an unexpected error:', e);
+});

@@ -1,4 +1,5 @@
 import React from 'react';
+import { getGenreIcon } from '@/lib/genreMapping';
 
 interface EventProps {
     event: {
@@ -7,6 +8,7 @@ interface EventProps {
         date: string;
         categories: string[];
         source: string;
+        genre?: string;
         imageUrl?: string | null;
     };
     isBookmarked: boolean;
@@ -63,11 +65,19 @@ export const EventCard: React.FC<EventProps> = ({ event, isBookmarked, onToggleB
         >
             {/* Image Section */}
             <div className="relative aspect-[4/3] overflow-hidden bg-gray-100">
-                <img
-                    src={event.imageUrl || ''}
-                    alt={event.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
-                />
+                {event.imageUrl ? (
+                    <img
+                        src={event.imageUrl}
+                        alt={event.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
+                    />
+                ) : (
+                    <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-sky-50 via-white to-emerald-50">
+                        <span className="text-5xl opacity-50 group-hover:scale-110 transition-transform duration-500">
+                            {getGenreIcon(event.genre || 'その他')}
+                        </span>
+                    </div>
+                )}
                 <div className="absolute top-3 left-3">
                     <span className="bg-white/90 backdrop-blur-sm text-gray-900 text-[10px] font-bold px-2 py-1 rounded shadow-sm uppercase tracking-wider">
                         {event.source}
