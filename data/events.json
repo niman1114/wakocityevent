@@ -285,15 +285,6 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
-    "title": "【分館】6/26（金曜日）「あかちゃんと楽しむ絵本とわらべうた in 下新倉児童館」",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013624.html",
-    "date": "2026-06-26",
-    "categories": [
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【分館】令和8年度あかちゃんと楽しむ絵本とわらべうた",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013396.html",
     "date": "2026-06-26",
@@ -322,6 +313,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/チラシ表面_page-0001-214x300.jpg"
+  },
+  {
+    "title": "【歴史講座】新倉ふるさと民家園　開園20周年記念講演会",
+    "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013590.html",
+    "date": "2026-06-28",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "和光市舞踊協会 第43回舞踊まつり",
@@ -451,17 +452,6 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/01/%E3%82%AD%E3%83%83%E3%82%BA%E3%83%91%E3%83%BC%E3%82%AFde%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5-320x227.jpg"
-  },
-  {
-    "title": "【児童センター】7月6日 （月）室内キッズパークINシアターアリーナ",
-    "url": "https://wapia.jp/situnaiplaypark/",
-    "date": "2026-07-06",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/08/_%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5_POP-e1756869003831-320x227.jpg"
   },
   {
     "title": "サンアゼリアシアター「アナウンサーたちの戦争」",
