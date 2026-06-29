@@ -274,37 +274,6 @@
     "imageUrl": null
   },
   {
-    "title": "【児童センター】6月24日（水）すまいる工房がパンの販売をします！",
-    "url": "https://wapia.jp/smilekobo/",
-    "date": "2026-06-24",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
-  },
-  {
-    "title": "【歴史講座】新倉ふるさと民家園　開園20周年記念講演会",
-    "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013590.html",
-    "date": "2026-06-28",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "和光市舞踊協会 第43回舞踊まつり",
-    "url": "https://www.sunazalea.or.jp/event/20260628-%e5%92%8c%e5%85%89%e5%b8%82%e8%88%9e%e8%b8%8a%e5%8d%94%e4%bc%9a-%e7%ac%ac43%e5%9b%9e%e8%88%9e%e8%b8%8a%e3%81%be%e3%81%a4%e3%82%8a/",
-    "date": "2026-06-28",
-    "categories": [
-      "大ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2025/01/和光市舞踊協会-300x193.jpg"
-  },
-  {
     "title": "【定員に達しました】【本館】6/28（日）「大人のための朗読劇場Part31」『星新一　シュールな世界　第6弾』",
     "url": "https://www.wakolib.jp/eventnews/629part29_1.html",
     "date": "2026-06-28",
@@ -413,15 +382,26 @@
     "source": "和光市公式"
   },
   {
-    "title": "【児童センター】7月6日（月）キッズパークdeママリフレッシュ",
-    "url": "https://wapia.jp/mamarihu/",
-    "date": "2026-07-06",
+    "title": "【児童センター】7月7日（火）読み聞かせ会",
+    "url": "https://wapia.jp/yomikikasekai/",
+    "date": "2026-07-07",
     "categories": [
       "わぴあ",
       "屋内"
     ],
     "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/01/%E3%82%AD%E3%83%83%E3%82%BA%E3%83%91%E3%83%BC%E3%82%AFde%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A5-320x227.jpg"
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/08/%EF%BC%95_20250819_130055_0000-e1756877290701-320x227.jpg"
+  },
+  {
+    "title": "【児童センター】7月10日（金）すまいる工房がパンの販売をします！",
+    "url": "https://wapia.jp/smilekobo/",
+    "date": "2026-07-10",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "サンアゼリアシアター「アナウンサーたちの戦争」",
@@ -432,6 +412,28 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/02/アナウンサーたちの戦争TOP.jpg"
+  },
+  {
+    "title": "ニホンミツバチの蜜源めぐり　～スマホアプリでスタンプラリー～",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026062917160312724.html",
+    "date": "2026-07-11",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/0f542919fa980b81ae434de013a356b4-13-330x290.jpg"
+  },
+  {
+    "title": "【ぼうけん広場】7月17日（金） ぷちプレーパーク",
+    "url": "https://wapia.jp/playpark/",
+    "date": "2026-07-17",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
   },
   {
     "title": "【水深20ｃｍ】大きいプールで遊ぼう！ 7月20日（月・祝）",
@@ -538,6 +540,16 @@
     "source": "和光市公式"
   },
   {
+    "title": "和楽器体験教室「お箏（こと）教室」",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
+    "date": "2026-08-03",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "夏休み体験サンアゼリアこども寄席",
     "url": "https://www.sunazalea.or.jp/event/20260803-%e5%a4%8f%e4%bc%91%e3%81%bf%e4%bd%93%e9%a8%93%e2%80%bc%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e3%81%93%e3%81%a9%e3%82%82%e5%af%84%e5%b8%ad/",
     "date": "2026-08-03",
@@ -546,6 +558,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/落語WS2026.jpg"
+  },
+  {
+    "title": "和楽器体験教室「お箏（こと）教室」",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
+    "date": "2026-08-04",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "サンアゼリア寄席 夏休み!特別口演",
