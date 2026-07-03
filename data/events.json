@@ -74,16 +74,6 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/01/PXL_20260110_045549528-1-1280x960.jpg"
   },
   {
-    "title": "【分館】5/15(金)・5/29(金)・6/26(金)　市民図書館講座　旅と図書館ー自分でつくる旅ー",
-    "url": "https://www.wakolib.jp/eventnews/22855.html",
-    "date": "2026-05-15",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
-  },
-  {
     "title": "【和光市】5月15日～17日、坂下公民館まつりが行われます！",
     "url": "https://asaka-wako.goguynet.jp/2026/05/07/sakashitacc/",
     "date": "2026-05-15",
@@ -294,15 +284,6 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
   },
   {
-    "title": "【本館】あかちゃんタイム",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1011080.html",
-    "date": "2026-07-02",
-    "categories": [
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【分館】7/4（土曜日）ぶっくわーるど「おばけパーティーにご招待!!」",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013598.html",
     "date": "2026-07-04",
@@ -384,6 +365,15 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/08/%EF%BC%95_20250819_130055_0000-e1756877290701-320x227.jpg"
   },
   {
+    "title": "【市議会】議会運営委員会（令和8年7月9日）",
+    "url": "https://www.city.wako.lg.jp/shisei/1006222/1006223/1013743.html",
+    "date": "2026-07-09",
+    "categories": [
+      "その他"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "【児童センター】7月10日（金）すまいる工房がパンの販売をします！",
     "url": "https://wapia.jp/smilekobo/",
     "date": "2026-07-10",
@@ -443,6 +433,25 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/0f542919fa980b81ae434de013a356b4-13-330x290.jpg"
+  },
+  {
+    "title": "【分館】7/11（土）絵本とおはなしの会",
+    "url": "https://www.wakolib.jp/eventnews/66.html",
+    "date": "2026-07-11",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
+    "title": "【本館】ワンダークラブ（令和8年7月12日）",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013704.html",
+    "date": "2026-07-12",
+    "categories": [
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "【ぼうけん広場】7月17日（金） ぷちプレーパーク",
@@ -649,6 +658,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/02/コンクール参加者募集.jpg"
+  },
+  {
+    "title": "【分館】中高生限定！8/22（土）図書館クラブ「本の手書きPOPづくり」",
+    "url": "https://www.wakolib.jp/eventnews/88pop_4.html",
+    "date": "2026-08-22",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   },
   {
     "title": "GRe4N BOYZ イマーシブライブシアター2026「”The ZA”～溢れる想いが止まらない～」",
