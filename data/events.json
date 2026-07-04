@@ -74,6 +74,16 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/01/PXL_20260110_045549528-1-1280x960.jpg"
   },
   {
+    "title": "【分館】5/15(金)・5/29(金)・6/26(金)　市民図書館講座　旅と図書館ー自分でつくる旅ー",
+    "url": "https://www.wakolib.jp/eventnews/22855.html",
+    "date": "2026-05-15",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
     "title": "【和光市】5月15日～17日、坂下公民館まつりが行われます！",
     "url": "https://asaka-wako.goguynet.jp/2026/05/07/sakashitacc/",
     "date": "2026-05-15",
@@ -282,17 +292,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
-  },
-  {
-    "title": "【分館】7/4（土曜日）ぶっくわーるど「おばけパーティーにご招待!!」",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013598.html",
-    "date": "2026-07-04",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て",
-      "募集終了"
-    ],
-    "source": "和光市公式"
   },
   {
     "title": "【本館】7/4（土）七夕おはなし会",
@@ -717,6 +716,26 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/motocoyote2026.jpg"
+  },
+  {
+    "title": "THE カルテット　昭和歌謡コンサート",
+    "url": "https://www.sunazalea.or.jp/event/20260925-the-%e3%82%ab%e3%83%ab%e3%83%86%e3%83%83%e3%83%88%e3%80%80%e6%98%ad%e5%92%8c%e6%ad%8c%e8%ac%a1%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88/",
+    "date": "2026-09-25",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/260925wako1-212x300.jpg"
+  },
+  {
+    "title": "Nojima T.League2026-2027 シーズン　T.T彩たまホームマッチ",
+    "url": "https://www.sunazalea.or.jp/event/20261004-nojima-t-league2026-2027-%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%80%80t-t%e5%bd%a9%e3%81%9f%e3%81%be%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81/",
+    "date": "2026-10-04",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/【T.T彩たま】SUNAZALEA-7.8.9月号掲載用ビジュアル-212x300.jpg"
   },
   {
     "title": "クリスマスこどもフェス",
