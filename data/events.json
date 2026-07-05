@@ -284,16 +284,6 @@
     "imageUrl": null
   },
   {
-    "title": "わこう歌声ランド",
-    "url": "https://www.sunazalea.or.jp/event/20260701-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
-    "date": "2026-07-01",
-    "categories": [
-      "小ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
-  },
-  {
     "title": "【本館】7/4（土）七夕おはなし会",
     "url": "https://www.wakolib.jp/eventnews/75.html",
     "date": "2026-07-04",
@@ -453,6 +443,16 @@
     "source": "和光市公式"
   },
   {
+    "title": "若返り学級",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009730.html",
+    "date": "2026-07-14",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "【ぼうけん広場】7月17日（金） ぷちプレーパーク",
     "url": "https://wapia.jp/playpark/",
     "date": "2026-07-17",
@@ -587,6 +587,16 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/落語WS2026.jpg"
   },
   {
+    "title": "わこう歌声ランド",
+    "url": "https://www.sunazalea.or.jp/event/20260803-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
+    "date": "2026-08-03",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
+  },
+  {
     "title": "イベント・講座情報",
     "url": "https://www.city.wako.lg.jp/jigyosha/koyo/1003450/1003454/1012387.html",
     "date": "2026-08-04",
@@ -647,6 +657,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/アリエッタ交響楽団第23回演奏会_page-0001-212x300.jpg"
+  },
+  {
+    "title": "森の ごろごろシネマ",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026070516205212776.html",
+    "date": "2026-08-15",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/c478b1a6dedb96603a486610161ab963-31-330x246.jpg"
   },
   {
     "title": "清水かつら記念 第21回 日本歌曲 歌唱コンクール",
@@ -726,6 +747,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/260925wako1-212x300.jpg"
+  },
+  {
+    "title": "第3回むさしの和太鼓祭",
+    "url": "https://www.sunazalea.or.jp/event/20260927-%e7%ac%ac3%e5%9b%9e%e3%82%80%e3%81%95%e3%81%97%e3%81%ae%e5%92%8c%e5%a4%aa%e9%bc%93%e7%a5%ad/",
+    "date": "2026-09-27",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/第3回むさしの和太鼓祭-広告データ-214x300.jpg"
   },
   {
     "title": "Nojima T.League2026-2027 シーズン　T.T彩たまホームマッチ",
