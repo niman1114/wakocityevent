@@ -294,13 +294,15 @@
     "imageUrl": null
   },
   {
-    "title": "【市議会】議会運営委員会（令和8年7月9日）",
-    "url": "https://www.city.wako.lg.jp/shisei/1006222/1006223/1013743.html",
-    "date": "2026-07-09",
+    "title": "【児童センター】7月10日（金）すまいる工房がパンの販売をします！",
+    "url": "https://wapia.jp/smilekobo/",
+    "date": "2026-07-10",
     "categories": [
-      "その他"
+      "わぴあ",
+      "屋内"
     ],
-    "source": "和光市公式"
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "将棋のつどい",
@@ -421,6 +423,29 @@
     "source": "和光市公式"
   },
   {
+    "title": "【ぼうけん広場】7月17日（金） ぷちプレーパーク",
+    "url": "https://wapia.jp/playpark/",
+    "date": "2026-07-17",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
+  },
+  {
+    "title": "【申込期限延長！】夏の自由研究「自動運転ってなんだ？」（東京大学連携出前講座）を開催します",
+    "url": "https://www.city.wako.lg.jp/machizukuri/kotsu/1010340/1010047/1013338/1013695.html",
+    "date": "2026-07-18",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "体験（つくる・参加する）",
+      "子ども・子育て",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "セミの羽化観察【満員】",
     "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026061614411512720.html",
     "date": "2026-07-25",
@@ -430,6 +455,17 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/b77f2db2632571047a1a1fc7eecc3ce2-4-330x261.jpg"
+  },
+  {
+    "title": "7月25日（土）「わぴあ夏まつり2026」開催！",
+    "url": "https://wapia.jp/7%e6%9c%8825%e6%97%a5%ef%bc%88%e5%9c%9f%ef%bc%89%e3%80%80%e3%82%8f%e3%81%b4%e3%81%82%e5%a4%8f%e3%81%be%e3%81%a4%e3%82%8a2026/",
+    "date": "2026-07-25",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E3%82%8F%E3%81%B4%E3%81%82%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A2026-scaled-320x227.jpg"
   },
   {
     "title": "日本の歌で結ぶ『和』のコンサート",
@@ -462,6 +498,17 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/チラシ-表-212x300.jpg"
   },
   {
+    "title": "【児童センター】あそびサークル ～水あそびとしゃぼん玉あそび～ 7月29日（水）",
+    "url": "https://wapia.jp/asobicircle/",
+    "date": "2026-07-29",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/05/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202607%E6%B0%B4%E3%81%82%E3%81%9D%E3%81%B3-e1782109987132-320x227.jpg"
+  },
+  {
     "title": "サンアゼリア寄席 待ってました！柳家権太楼",
     "url": "https://www.sunazalea.or.jp/event/20260730-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e5%af%84%e5%b8%ad-%e5%be%85%e3%81%a3%e3%81%a6%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e6%9f%b3%e5%ae%b6%e6%a8%a9%e5%a4%aa%e6%a5%bc/",
     "date": "2026-07-30",
@@ -480,6 +527,17 @@
     ],
     "source": "和光市図書館",
     "imageUrl": null
+  },
+  {
+    "title": "【児童センター】追加開催決定！！ 7月30日(木) 出張スタジオ ～ひまわり～ 撮影会",
+    "url": "https://wapia.jp/satueikai-himawari/",
+    "date": "2026-07-30",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/05/%E5%87%BA%E5%BC%B5%E6%92%AE%E5%BD%B1%E4%BC%9A-%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8APOP%E8%A1%A8-e1778302507221-320x227.jpg"
   },
   {
     "title": "リアル恐竜ショー　恐竜パーク",
@@ -512,7 +570,7 @@
     "source": "和光市公式"
   },
   {
-    "title": "夏休み体験サンアゼリアこども寄席",
+    "title": "夏休み体験‼サンアゼリアこども寄席",
     "url": "https://www.sunazalea.or.jp/event/20260803-%e5%a4%8f%e4%bc%91%e3%81%bf%e4%bd%93%e9%a8%93%e2%80%bc%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e3%81%93%e3%81%a9%e3%82%82%e5%af%84%e5%b8%ad/",
     "date": "2026-08-03",
     "categories": [
@@ -561,6 +619,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/夏休み特別口演.jpg"
+  },
+  {
+    "title": "【8月9日（日）】わぴあウォーターサバイバルゲーム",
+    "url": "https://wapia.jp/%e3%80%908%e6%9c%889%e6%97%a5%ef%bc%88%e6%97%a5%ef%bc%89%e3%80%91%e3%82%8f%e3%81%b4%e3%81%82%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%b5%e3%83%90%e3%82%a4%e3%83%90%e3%83%ab%e3%82%b2%e3%83%bc/",
+    "date": "2026-08-09",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F-320x227.jpg"
   },
   {
     "title": "第13回みんなでつながろうin和光 ～福島の今～",
@@ -629,6 +698,16 @@
     "date": "2026-09-03",
     "categories": [
       "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】9月のブックスタート",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013754.html",
+    "date": "2026-09-07",
+    "categories": [
+      "子ども・子育て",
+      "事前申込必要"
     ],
     "source": "和光市公式"
   },
