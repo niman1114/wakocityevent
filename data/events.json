@@ -305,45 +305,6 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
-    "title": "将棋のつどい",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009731.html",
-    "date": "2026-07-11",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "新倉ふるさと民家園開園20周年記念 将棋のつどい",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013665.html",
-    "date": "2026-07-11",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【分館】令和8年度絵本とおはなしの会",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013258.html",
-    "date": "2026-07-11",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "サンアゼリアシアター「アナウンサーたちの戦争」",
-    "url": "https://www.sunazalea.or.jp/event/20260711-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e3%82%b7%e3%82%a2%e3%82%bf%e3%83%bc%e3%80%8c%e3%82%a2%e3%83%8a%e3%82%a6%e3%83%b3%e3%82%b5%e3%83%bc%e3%81%9f%e3%81%a1%e3%81%ae%e6%88%a6%e4%ba%89/",
-    "date": "2026-07-11",
-    "categories": [
-      "大ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/02/アナウンサーたちの戦争TOP.jpg"
-  },
-  {
     "title": "ニホンミツバチの蜜源めぐり　～スマホアプリでスタンプラリー～",
     "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026062917160312724.html",
     "date": "2026-07-11",
@@ -452,6 +413,25 @@
     "categories": [
       "子ども・子育て",
       "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "おしゃべり広場 子育てサロン【毎月第3火曜】",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009728.html",
+    "date": "2026-07-21",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "そば打ち体験講座",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013701.html",
+    "date": "2026-07-21",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
     ],
     "source": "和光市公式"
   },
@@ -629,6 +609,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/夏休み特別口演.jpg"
+  },
+  {
+    "title": "【児童センター】8月6日（木）夏休み宿題応援企画！！～草木染めをしよう～",
+    "url": "https://wapia.jp/natuyasumi/",
+    "date": "2026-08-06",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/12/%E4%BC%81%E7%94%BB_2026%E5%A4%8F%E4%BC%91%E3%81%BF%E5%AE%BF%E9%A1%8C%E5%BF%9C%E6%8F%B4%E4%BC%81%E7%94%BB-e1783845421681-320x227.jpg"
   },
   {
     "title": "【8月9日（日）】わぴあウォーターサバイバルゲーム",
