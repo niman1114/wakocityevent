@@ -285,16 +285,6 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/0f542919fa980b81ae434de013a356b4-13-330x290.jpg"
   },
   {
-    "title": "【分館】令和8年度ひまわりおはなし会",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013317.html",
-    "date": "2026-07-15",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【本館】令和8年度　図書館の本をスマホでらくらく予約Day",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013705.html",
     "date": "2026-07-16",
@@ -403,6 +393,25 @@
       "講座・教室（学ぶ・聞く）",
       "子ども・子育て",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "夏休みジャブジャブ大会を開催します！",
+    "url": "https://www.city.wako.lg.jp/kurashi/kankyo/1002957/1011329.html",
+    "date": "2026-07-25",
+    "categories": [
+      "体験（つくる・参加する）",
+      "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "埼玉県バス会社合同就職説明会のお知らせ",
+    "url": "https://www.city.wako.lg.jp/machizukuri/kotsu/1010340/1011000/1005973/1012505.html",
+    "date": "2026-07-25",
+    "categories": [
+      "その他"
     ],
     "source": "和光市公式"
   },
