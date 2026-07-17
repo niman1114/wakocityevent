@@ -285,25 +285,6 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/0f542919fa980b81ae434de013a356b4-13-330x290.jpg"
   },
   {
-    "title": "【本館】令和8年度　図書館の本をスマホでらくらく予約Day",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013705.html",
-    "date": "2026-07-16",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【分館】令和8年度ブックスタート",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013547.html",
-    "date": "2026-07-16",
-    "categories": [
-      "子ども・子育て",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【本館】令和8年度あかちゃんと楽しむ絵本とわらべうた",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013427.html",
     "date": "2026-07-17",
@@ -376,7 +357,7 @@
     "source": "和光市公式"
   },
   {
-    "title": "夏休みこども電気教室　ハンディファン・プロペラカーを作ろう",
+    "title": "ハンディファン・プロペラカーを作ろう",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1009689/1013656.html",
     "date": "2026-07-24",
     "categories": [
@@ -425,6 +406,16 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/b77f2db2632571047a1a1fc7eecc3ce2-4-330x261.jpg"
+  },
+  {
+    "title": "【本館】10代のためのファッション＆パーソナルカラー講座（令和8年7月26日）",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013709.html",
+    "date": "2026-07-26",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "日本の歌で結ぶ『和』のコンサート",
