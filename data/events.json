@@ -285,16 +285,6 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/0f542919fa980b81ae434de013a356b4-13-330x290.jpg"
   },
   {
-    "title": "こども卓球教室",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009729.html",
-    "date": "2026-07-19",
-    "categories": [
-      "子ども・子育て",
-      "健康・福祉・スポーツ"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【分館】令和8年度英語おはなし会 Peek'n See!　※一部変更になりました（7月19日更新）",
     "url": "https://www.wakolib.jp/eventnews/7_peekn_see.html",
     "date": "2026-07-19",
@@ -478,6 +468,25 @@
     "title": "こども将棋体験教室(全3回)",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013495.html",
     "date": "2026-07-28",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館・分館】夏休み宿題教室（令和8年7月28日・29日）",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1013775.html",
+    "date": "2026-07-29",
+    "categories": [
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "こども将棋体験教室(全3回)",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013495.html",
+    "date": "2026-07-29",
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "事前申込必要"
