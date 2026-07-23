@@ -114,16 +114,6 @@
     "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/03/PXL_20260321_054343538-1280x960.jpg"
   },
   {
-    "title": "【厚生労働省】「賃上げ支援助成金パッケージ」のお知らせ",
-    "url": "https://wako-sci.or.jp/archives/268618",
-    "date": "2026/06/11",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
     "title": "【朝霞市・和光市】6月13日、14日にりっくんランドにて、自衛隊車両体験試乗が行われます",
     "url": "https://asaka-wako.goguynet.jp/2026/05/26/jgsdfpic/",
     "date": "2026-06-13",
@@ -295,16 +285,6 @@
     "imageUrl": null
   },
   {
-    "title": "こども鰹節削り教室",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013640.html",
-    "date": "2026-07-23",
-    "categories": [
-      "体験（つくる・参加する）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "夏休み親子下水道教室",
     "url": "https://www.city.wako.lg.jp/kurashi/suido/1006016/1011042/1009641.html",
     "date": "2026-07-23",
@@ -313,6 +293,16 @@
       "事前申込必要"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【埼玉労働局】改正労働施策総合推進法等説明会のご案内",
+    "url": "https://wako-sci.or.jp/archives/268708",
+    "date": "2026/07/23",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
   },
   {
     "title": "ハンディファン・プロペラカーを作ろう",
@@ -553,6 +543,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/チラシ③表横800-恐竜パーク-214x300.png"
+  },
+  {
+    "title": "【分館】8/1（土）図書館の紙芝居屋さん（第8回下新倉サマーフェスタ）",
+    "url": "https://www.wakolib.jp/eventnews/827.html",
+    "date": "2026-08-01",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   },
   {
     "title": "大菊苗無料配布・菊の育て方講習会",
@@ -911,15 +911,5 @@
     ],
     "source": "和光子育てネットワーク",
     "imageUrl": "https://cdn.peraichi.com/userData/5fd18f1a-c410-490e-9fe0-30670a000054/img/5fff1a5ae2932/original.jpg"
-  },
-  {
-    "title": "【本館】5/16（土）世界おはなしめぐり",
-    "url": "https://www.wakolib.jp/eventnews/104_2.html",
-    "date": "2027-05-16",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   }
 ]
