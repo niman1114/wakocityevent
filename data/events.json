@@ -295,16 +295,6 @@
     "imageUrl": null
   },
   {
-    "title": "夏休みジャブジャブ大会を開催します！",
-    "url": "https://www.city.wako.lg.jp/kurashi/kankyo/1002957/1011329.html",
-    "date": "2026-07-25",
-    "categories": [
-      "体験（つくる・参加する）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "7月25日（土）「わぴあ夏まつり2026」開催！",
     "url": "https://wapia.jp/7%e6%9c%8825%e6%97%a5%ef%bc%88%e5%9c%9f%ef%bc%89%e3%80%80%e3%82%8f%e3%81%b4%e3%81%82%e5%a4%8f%e3%81%be%e3%81%a4%e3%82%8a2026/",
     "date": "2026-07-25",
@@ -316,16 +306,6 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E3%82%8F%E3%81%B4%E3%81%82%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A2026-scaled-320x227.jpg"
   },
   {
-    "title": "【本館】10代のためのファッション＆パーソナルカラー講座（令和8年7月26日）",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013709.html",
-    "date": "2026-07-26",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "日本の歌で結ぶ『和』のコンサート",
     "url": "https://www.sunazalea.or.jp/event/20260726-%e6%97%a5%e6%9c%ac%e3%81%ae%e6%ad%8c%e3%81%a7%e7%b5%90%e3%81%b6%e3%80%8e%e5%92%8c%e3%80%8f%e3%81%ae%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88-2/",
     "date": "2026-07-26",
@@ -334,16 +314,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/05/最終版-チラシ表横800-216x300.jpg"
-  },
-  {
-    "title": "【本館】7/26（日）市民図書館講座（中高生対象）「10代のためのファッション＆パーソナルカラー講座」",
-    "url": "https://www.wakolib.jp/eventnews/727pop.html",
-    "date": "2026-07-26",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   },
   {
     "title": "和楽器体験教室「お箏（こと）教室」",
@@ -587,17 +557,6 @@
     "source": "和光市公式"
   },
   {
-    "title": "【児童センター】8月4日（火）読み聞かせ会",
-    "url": "https://wapia.jp/yomikikasekai/",
-    "date": "2026-08-04",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/08/%EF%BC%95_20250819_130055_0000-e1756877290701-320x227.jpg"
-  },
-  {
     "title": "サンアゼリア寄席 夏休み!特別口演",
     "url": "https://www.sunazalea.or.jp/event/20260805-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e5%af%84%e5%b8%ad-%e5%a4%8f%e4%bc%91%e3%81%bf%e7%89%b9%e5%88%a5%e5%8f%a3%e6%bc%94/",
     "date": "2026-08-05",
@@ -689,6 +648,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/GR2026TKV_0424_large-212x300.jpg"
+  },
+  {
+    "title": "【児童センター】 8月24日（月）GAME大会INシアターアリーナ",
+    "url": "https://wapia.jp/gametaikai/",
+    "date": "2026-08-24",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/12/%E4%BC%81%E7%94%BBGAME%E5%A4%A7%E4%BC%9A202603-e1771807818681-320x227.jpg"
   },
   {
     "title": "【ぼうけん広場】8月28日（金） プレーパーク",
@@ -870,5 +840,15 @@
     ],
     "source": "和光子育てネットワーク",
     "imageUrl": "https://cdn.peraichi.com/userData/5fd18f1a-c410-490e-9fe0-30670a000054/img/5fff1a5ae2932/original.jpg"
+  },
+  {
+    "title": "【本館】5/16（土）世界おはなしめぐり",
+    "url": "https://www.wakolib.jp/eventnews/104_2.html",
+    "date": "2027-05-16",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   }
 ]
