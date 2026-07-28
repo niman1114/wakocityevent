@@ -44,16 +44,6 @@
     "imageUrl": null
   },
   {
-    "title": "【和光市】ワンちゃんと楽しもう！4月18日に和光樹林公園にて犬のしつけ教室とマルシェが行われます",
-    "url": "https://asaka-wako.goguynet.jp/2026/04/14/shitsuke/",
-    "date": "2026-04-18",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/04/24131122_l.jpg"
-  },
-  {
     "title": "【朝霞市・和光市】GW（ゴールデンウィーク）周辺の関連情報まとめ！イベントや知っておきたい情報など（4月25日〜5月10日）【随時更新】",
     "url": "https://asaka-wako.goguynet.jp/2026/04/22/gw/",
     "date": "2026-04-25",
@@ -134,16 +124,6 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/05/IMG_0477.jpg"
   },
   {
-    "title": "【埼玉県】体験型DX展示会のお知らせ",
-    "url": "https://wako-sci.or.jp/archives/268638",
-    "date": "2026/06/17",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
     "title": "【本館】6/20（土）第1回子どもの科学「羊のおくりもの」",
     "url": "https://www.wakolib.jp/eventnews/214_2.html",
     "date": "2026-06-20",
@@ -186,16 +166,6 @@
   {
     "title": "【経済産業省より】令和８年度パートナーシップ優良事業者の募集開始について",
     "url": "https://wako-sci.or.jp/archives/268664",
-    "date": "2026/06/30",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
-    "title": "埼玉県より「ノーコードツール活用プログラム」受講者募集のご案内",
-    "url": "https://wako-sci.or.jp/archives/268662",
     "date": "2026/06/30",
     "categories": [
       "商工会"
@@ -306,36 +276,6 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E3%82%8F%E3%81%B4%E3%81%82%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A2026-scaled-320x227.jpg"
   },
   {
-    "title": "和楽器体験教室「お箏（こと）教室」",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
-    "date": "2026-07-27",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "こども将棋体験教室(全3回)",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013495.html",
-    "date": "2026-07-27",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "江上兄弟と細貝柊・武田圭司の昭和歌謡コンサート",
-    "url": "https://www.sunazalea.or.jp/event/20260727-%e6%b1%9f%e4%b8%8a%e5%85%84%e5%bc%9f%e3%81%a8%e7%b4%b0%e8%b2%9d%e6%9f%8a%e3%83%bb%e6%ad%a6%e7%94%b0%e5%9c%ad%e5%8f%b8%e3%81%ae%e6%98%ad%e5%92%8c%e6%ad%8c%e8%ac%a1%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc-6/",
-    "date": "2026-07-27",
-    "categories": [
-      "小ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/チラシ-表-212x300.jpg"
-  },
-  {
     "title": "【本館・分館】夏休み宿題教室（令和8年7月28日・29日）",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1013775.html",
     "date": "2026-07-28",
@@ -345,15 +285,6 @@
     "source": "和光市公式"
   },
   {
-    "title": "【市議会】議会運営委員会（令和8年7月28日）",
-    "url": "https://www.city.wako.lg.jp/shisei/1006222/1006223/1013743.html",
-    "date": "2026-07-28",
-    "categories": [
-      "その他"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "和楽器体験教室「お箏（こと）教室」",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
     "date": "2026-07-28",
@@ -372,6 +303,26 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "手形・小切手の利用廃止及びでんさいに関するお知らせ",
+    "url": "https://wako-sci.or.jp/archives/268718",
+    "date": "2026/07/28",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "【埼玉県】サステナブル企業認証制度の令和８年度の申請受付のご案内",
+    "url": "https://wako-sci.or.jp/archives/268716",
+    "date": "2026/07/28",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
   },
   {
     "title": "【本館・分館】夏休み宿題教室（令和8年7月28日・29日）",
@@ -421,17 +372,6 @@
     ],
     "source": "和光市図書館",
     "imageUrl": null
-  },
-  {
-    "title": "【児童センター】出張スタジオ 7月30日(木) ～ひまわり～ ・8月18日（火）～こども縁日～ 撮影会",
-    "url": "https://wapia.jp/satueikai-himawari/",
-    "date": "2026-07-30",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/05/%E5%87%BA%E5%BC%B5%E6%92%AE%E5%BD%B1%E4%BC%9A-%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8APOP%E8%A1%A8-e1778302507221-320x227.jpg"
   },
   {
     "title": "子ども料理教室",
