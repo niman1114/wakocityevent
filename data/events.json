@@ -265,6 +265,17 @@
     "imageUrl": null
   },
   {
+    "title": "セミの羽化観察【申込終了】",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026061614411512720.html",
+    "date": "2026-07-25",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/b77f2db2632571047a1a1fc7eecc3ce2-4-330x261.jpg"
+  },
+  {
     "title": "7月25日（土）「わぴあ夏まつり2026」開催！",
     "url": "https://wapia.jp/7%e6%9c%8825%e6%97%a5%ef%bc%88%e5%9c%9f%ef%bc%89%e3%80%80%e3%82%8f%e3%81%b4%e3%81%82%e5%a4%8f%e3%81%be%e3%81%a4%e3%82%8a2026/",
     "date": "2026-07-25",
@@ -274,35 +285,6 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E3%82%8F%E3%81%B4%E3%81%82%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A2026-scaled-320x227.jpg"
-  },
-  {
-    "title": "【本館・分館】夏休み宿題教室（令和8年7月28日・29日）",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1013775.html",
-    "date": "2026-07-28",
-    "categories": [
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "和楽器体験教室「お箏（こと）教室」",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
-    "date": "2026-07-28",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "こども将棋体験教室(全3回)",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013495.html",
-    "date": "2026-07-28",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
   },
   {
     "title": "手形・小切手の利用廃止及びでんさいに関するお知らせ",
@@ -323,25 +305,6 @@
     ],
     "source": "和光市商工会",
     "imageUrl": null
-  },
-  {
-    "title": "【本館・分館】夏休み宿題教室（令和8年7月28日・29日）",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1013775.html",
-    "date": "2026-07-29",
-    "categories": [
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "こども将棋体験教室(全3回)",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013495.html",
-    "date": "2026-07-29",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
   },
   {
     "title": "子ども料理教室",
@@ -444,28 +407,6 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
   },
   {
-    "title": "【児童センター】8月3日（月）キッズパークdeママリフレッシュ",
-    "url": "https://wapia.jp/mamarihu/",
-    "date": "2026-08-03",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95_202608-e1784084903917-320x227.jpg"
-  },
-  {
-    "title": "【児童センター】8月3日 （月）室内キッズパークINシアターアリーナ",
-    "url": "https://wapia.jp/situnaiplaypark/",
-    "date": "2026-08-03",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/07/%E4%BC%81%E7%94%BB_%E5%AE%A4%E5%86%85_202608--e1784083327947-320x227.jpg"
-  },
-  {
     "title": "イベント・講座情報",
     "url": "https://www.city.wako.lg.jp/jigyosha/koyo/1003450/1003454/1012387.html",
     "date": "2026-08-04",
@@ -495,6 +436,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/夏休み特別口演.jpg"
+  },
+  {
+    "title": "【8月10日】ハンドテクニックと感情ケアワークショップ",
+    "url": "https://wapia.jp/%e3%80%908%e6%9c%8810%e6%97%a5%e3%80%91%e3%83%8f%e3%83%b3%e3%83%89%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af%e3%81%a8%e6%84%9f%e6%83%85%e3%82%b1%e3%82%a2%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7/",
+    "date": "2026-08-10",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/07/8.10%E3%83%8F%E3%83%B3%E3%83%89%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF_page-0001-scaled-320x227.jpg"
   },
   {
     "title": "第13回みんなでつながろうin和光 ～福島の今～",
