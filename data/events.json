@@ -54,16 +54,6 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/04/29415495_m.jpg"
   },
   {
-    "title": "【和光市】5月5日「端午の節句」に極楽湯和光店で手軽に菖蒲湯につかろう！GWイベント情報あり",
-    "url": "https://asaka-wako.goguynet.jp/2026/04/19/shobuyu/",
-    "date": "2026-05-05",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/01/PXL_20260110_045549528-1-1280x960.jpg"
-  },
-  {
     "title": "【和光市】5月15日～17日、坂下公民館まつりが行われます！",
     "url": "https://asaka-wako.goguynet.jp/2026/05/07/sakashitacc/",
     "date": "2026-05-15",
@@ -137,16 +127,6 @@
     "title": "【分館】6/21（日）英語おはなし会Peek'n See!「World Wide Stories　外国のえほんをよもう！」",
     "url": "https://www.wakolib.jp/eventnews/621peekn_seeworld_wide_stories.html",
     "date": "2026-06-21",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
-  },
-  {
-    "title": "【定員に達しました】【本館】6/28（日）「大人のための朗読劇場Part31」『星新一　シュールな世界　第6弾』",
-    "url": "https://www.wakolib.jp/eventnews/629part29_1.html",
-    "date": "2026-06-28",
     "categories": [
       "図書館"
     ],
@@ -307,26 +287,6 @@
     "imageUrl": null
   },
   {
-    "title": "子ども料理教室",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013726.html",
-    "date": "2026-07-30",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "サンアゼリア寄席 待ってました！柳家権太楼",
-    "url": "https://www.sunazalea.or.jp/event/20260730-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e5%af%84%e5%b8%ad-%e5%be%85%e3%81%a3%e3%81%a6%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e6%9f%b3%e5%ae%b6%e6%a8%a9%e5%a4%aa%e6%a5%bc/",
-    "date": "2026-07-30",
-    "categories": [
-      "小ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/05/20250213サンアゼリア寄席柳家権太楼の噺TOP.jpg"
-  },
-  {
     "title": "【本館】7/30 (木)「なつやすみ図書館のおしごと体験」",
     "url": "https://www.wakolib.jp/eventnews/730.html",
     "date": "2026-07-30",
@@ -438,6 +398,15 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/夏休み特別口演.jpg"
   },
   {
+    "title": "夏フェス2026in中央公民館の開催について",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1013958.html",
+    "date": "2026-08-07",
+    "categories": [
+      "祭り・催し"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "【8月10日】ハンドテクニックと感情ケアワークショップ",
     "url": "https://wapia.jp/%e3%80%908%e6%9c%8810%e6%97%a5%e3%80%91%e3%83%8f%e3%83%b3%e3%83%89%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af%e3%81%a8%e6%84%9f%e6%83%85%e3%82%b1%e3%82%a2%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7/",
     "date": "2026-08-10",
@@ -489,6 +458,16 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/0f542919fa980b81ae434de013a356b4-15-330x244.jpg"
+  },
+  {
+    "title": "【和光市】8月15日開催！夜の和光樹林公園で無料で映画を楽しむ「森のごろごろシネマ」や水鉄砲・ホットサンド作りなど限定イベントが満載",
+    "url": "https://asaka-wako.goguynet.jp/2026/08/01/seibu-green/",
+    "date": "2026-08-15",
+    "categories": [
+      "地域ニュース"
+    ],
+    "source": "号外NET",
+    "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/07/IMG_1694-1.jpg"
   },
   {
     "title": "【児童センター】8月19日（水）子連れdeママエクササイズ",
@@ -563,6 +542,16 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-4-320x227.jpeg"
+  },
+  {
+    "title": "「365Anniversary」シェフの料理教室",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013960.html",
+    "date": "2026-09-01",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "健康マージャン講座（全12回）",
@@ -673,6 +662,16 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/第3回むさしの和太鼓祭-広告データ-214x300.jpg"
   },
   {
+    "title": "【和光市】タイトーステーション和光店が9月30日に閉店へ。18年の営業に幕。跡地のマンション&テナント情報も！【メダルに関する注意点も】",
+    "url": "https://asaka-wako.goguynet.jp/2026/07/31/taito/",
+    "date": "2026-09-30",
+    "categories": [
+      "地域ニュース"
+    ],
+    "source": "号外NET",
+    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/PXL_20260719_062954642.jpg"
+  },
+  {
     "title": "Nojima T.League2026-2027 シーズン　T.T彩たまホームマッチ",
     "url": "https://www.sunazalea.or.jp/event/20261004-nojima-t-league2026-2027-%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%80%80t-t%e5%bd%a9%e3%81%9f%e3%81%be%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81/",
     "date": "2026-10-04",
@@ -722,6 +721,16 @@
     ],
     "source": "和光子育てネットワーク",
     "imageUrl": "https://cdn.peraichi.com/userData/5fd18f1a-c410-490e-9fe0-30670a000054/img/5fff1a5ae2932/original.jpg"
+  },
+  {
+    "title": "【分館】5/15(金)・5/29(金)・6/26(金)　市民図書館講座　旅と図書館ー自分でつくる旅ー",
+    "url": "https://www.wakolib.jp/eventnews/22855.html",
+    "date": "2027-05-15",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   },
   {
     "title": "【本館】5/16（土）世界おはなしめぐり",
