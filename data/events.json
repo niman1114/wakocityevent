@@ -297,16 +297,6 @@
     "imageUrl": null
   },
   {
-    "title": "子ども料理教室",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013726.html",
-    "date": "2026-07-31",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "リアル恐竜ショー　恐竜パーク",
     "url": "https://www.sunazalea.or.jp/event/20260801-%e3%83%aa%e3%82%a2%e3%83%ab%e6%81%90%e7%ab%9c%e3%82%b7%e3%83%a7%e3%83%bc%e3%80%80%e6%81%90%e7%ab%9c%e3%83%91%e3%83%bc%e3%82%af/",
     "date": "2026-08-01",
@@ -315,16 +305,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/チラシ③表横800-恐竜パーク-214x300.png"
-  },
-  {
-    "title": "【分館】8/1（土）図書館の紙芝居屋さん（第8回下新倉サマーフェスタ）",
-    "url": "https://www.wakolib.jp/eventnews/827.html",
-    "date": "2026-08-01",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   },
   {
     "title": "大菊苗無料配布・菊の育て方講習会",
@@ -607,7 +587,7 @@
     "date": "2026-09-08",
     "categories": [
       "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -672,6 +652,34 @@
     "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/PXL_20260719_062954642.jpg"
   },
   {
+    "title": "健康マージャン講座（全12回）",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
+    "date": "2026-10-01",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "ヘルスアップ相談",
+    "url": "https://www.city.wako.lg.jp/kenko/1004192/1009478/1004637/1010168/1009570.html",
+    "date": "2026-10-01",
+    "categories": [
+      "相談",
+      "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】あかちゃんタイム",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1011080.html",
+    "date": "2026-10-01",
+    "categories": [
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "Nojima T.League2026-2027 シーズン　T.T彩たまホームマッチ",
     "url": "https://www.sunazalea.or.jp/event/20261004-nojima-t-league2026-2027-%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%80%80t-t%e5%bd%a9%e3%81%9f%e3%81%be%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81/",
     "date": "2026-10-04",
@@ -680,6 +688,45 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/【T.T彩たま】SUNAZALEA-7.8.9月号掲載用ビジュアル-212x300.jpg"
+  },
+  {
+    "title": "つるし雛教室の開催",
+    "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1011518/1013748.html",
+    "date": "2026-10-06",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "健康マージャン講座（全12回）",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
+    "date": "2026-10-08",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "将棋のつどい",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009731.html",
+    "date": "2026-10-10",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】令和8年度絵本とおはなしの会",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013258.html",
+    "date": "2026-10-10",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "和光市民オーケストラ第38回定期演奏会",
