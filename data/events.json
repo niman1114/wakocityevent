@@ -246,17 +246,6 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/b77f2db2632571047a1a1fc7eecc3ce2-4-330x261.jpg"
   },
   {
-    "title": "7月25日（土）「わぴあ夏まつり2026」開催！",
-    "url": "https://wapia.jp/7%e6%9c%8825%e6%97%a5%ef%bc%88%e5%9c%9f%ef%bc%89%e3%80%80%e3%82%8f%e3%81%b4%e3%81%82%e5%a4%8f%e3%81%be%e3%81%a4%e3%82%8a2026/",
-    "date": "2026-07-25",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E3%82%8F%E3%81%B4%E3%81%82%E5%A4%8F%E3%81%BE%E3%81%A4%E3%82%8A2026-scaled-320x227.jpg"
-  },
-  {
     "title": "手形・小切手の利用廃止及びでんさいに関するお知らせ",
     "url": "https://wako-sci.or.jp/archives/268718",
     "date": "2026/07/28",
@@ -287,16 +276,6 @@
     "imageUrl": null
   },
   {
-    "title": "大菊苗無料配布・菊の育て方講習会",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1004937.html",
-    "date": "2026-08-02",
-    "categories": [
-      "祭り・催し",
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "和楽器体験教室「お箏（こと）教室」",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
     "date": "2026-08-03",
@@ -315,16 +294,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/落語WS2026.jpg"
-  },
-  {
-    "title": "わこう歌声ランド",
-    "url": "https://www.sunazalea.or.jp/event/20260803-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
-    "date": "2026-08-03",
-    "categories": [
-      "小ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
   },
   {
     "title": "イベント・講座情報",
@@ -430,15 +399,15 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/07/IMG_1694-1.jpg"
   },
   {
-    "title": "【児童センター】8月19日（水）子連れdeママエクササイズ",
-    "url": "https://wapia.jp/mamaekusa/",
-    "date": "2026-08-19",
+    "title": "【児童センター】出張スタジオ 8月18日（火）～こども縁日～ 撮影会",
+    "url": "https://wapia.jp/satueikai-himawari/",
+    "date": "2026-08-18",
     "categories": [
       "わぴあ",
       "屋内"
     ],
     "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/07/%E3%81%93%E3%81%A9%E3%82%82%E7%B8%81%E6%97%A5-e1785738509121-320x227.jpeg"
   },
   {
     "title": "清水かつら記念 第21回 日本歌曲 歌唱コンクール 本選審査会",
@@ -482,18 +451,7 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/12/%E4%BC%81%E7%94%BBGAME%E5%A4%A7%E4%BC%9A202603-e1771807818681-320x227.jpg"
   },
   {
-    "title": "【ぼうけん広場】8月28日（金） プレーパーク",
-    "url": "https://wapia.jp/playpark/",
-    "date": "2026-08-28",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
-  },
-  {
-    "title": "【児童センター】8月31日（月）ママサークル ～ピラティス～",
+    "title": "【児童センター】ママサークル 8月31日（月）～ピラティス～・9月8日（火) ～ヨガ～",
     "url": "https://wapia.jp/mamasakuru/",
     "date": "2026-08-31",
     "categories": [
@@ -512,6 +470,16 @@
       "事前申込必要"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "わこう歌声ランド",
+    "url": "https://www.sunazalea.or.jp/event/20260901-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
+    "date": "2026-09-01",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
   },
   {
     "title": "健康マージャン講座（全12回）",
@@ -611,6 +579,28 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/motocoyote2026.jpg"
+  },
+  {
+    "title": "【児童センター】9月21日（月・祝）キッズパークdeママリフレッシュ",
+    "url": "https://wapia.jp/mamarihu/",
+    "date": "2026-09-21",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95_202608-e1784084903917-320x227.jpg"
+  },
+  {
+    "title": "【児童センター】9月21日 （月・祝）室内キッズパークINシアターアリーナ",
+    "url": "https://wapia.jp/situnaiplaypark/",
+    "date": "2026-09-21",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/07/%E4%BC%81%E7%94%BB_%E5%AE%A4%E5%86%85_202608--e1784083327947-320x227.jpg"
   },
   {
     "title": "THE カルテット　昭和歌謡コンサート",
