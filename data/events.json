@@ -44,16 +44,6 @@
     "imageUrl": null
   },
   {
-    "title": "【朝霞市・和光市】GW（ゴールデンウィーク）周辺の関連情報まとめ！イベントや知っておきたい情報など（4月25日〜5月10日）【随時更新】",
-    "url": "https://asaka-wako.goguynet.jp/2026/04/22/gw/",
-    "date": "2026-04-25",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/04/29415495_m.jpg"
-  },
-  {
     "title": "【和光市】5月15日～17日、坂下公民館まつりが行われます！",
     "url": "https://asaka-wako.goguynet.jp/2026/05/07/sakashitacc/",
     "date": "2026-05-15",
@@ -286,27 +276,6 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/落語WS2026.jpg"
   },
   {
-    "title": "イベント・講座情報",
-    "url": "https://www.city.wako.lg.jp/jigyosha/koyo/1003450/1003454/1012387.html",
-    "date": "2026-08-04",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "和楽器体験教室「お箏（こと）教室」",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
-    "date": "2026-08-04",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "サンアゼリア寄席 夏休み!特別口演",
     "url": "https://www.sunazalea.or.jp/event/20260805-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e5%af%84%e5%b8%ad-%e5%a4%8f%e4%bc%91%e3%81%bf%e7%89%b9%e5%88%a5%e5%8f%a3%e6%bc%94/",
     "date": "2026-08-05",
@@ -317,6 +286,16 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/夏休み特別口演.jpg"
   },
   {
+    "title": "【朝霞市・和光市】朗報！8月6日から東武東上線で「FRUITS ZIPPER」コラボイベント！発車メロディや限定アナウンス・スタンプラリーなど『TOBU KAWAII PROJECT』開催",
+    "url": "https://asaka-wako.goguynet.jp/2026/08/05/fruitszipper/",
+    "date": "2026-08-06",
+    "categories": [
+      "地域ニュース"
+    ],
+    "source": "号外NET",
+    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/08/main-1280x960.jpg"
+  },
+  {
     "title": "夏フェス2026in中央公民館の開催について",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1013958.html",
     "date": "2026-08-07",
@@ -324,6 +303,16 @@
       "祭り・催し"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【朝霞市・和光市】涼しい室内で夏休みの自由研究を楽しもう！8月7日・19日・21日「キテレツ自由研究室」開催！絶品フードや駄菓子屋も登場",
+    "url": "https://asaka-wako.goguynet.jp/2026/08/06/kiteretsu/",
+    "date": "2026-08-07",
+    "categories": [
+      "地域ニュース"
+    ],
+    "source": "号外NET",
+    "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/08/24998652_s.jpg"
   },
   {
     "title": "【8月10日】ハンドテクニックと感情ケアワークショップ",
@@ -355,6 +344,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/アリエッタ交響楽団第23回演奏会_page-0001-212x300.jpg"
+  },
+  {
+    "title": "「公園における手持ち花火実証実験」を行います",
+    "url": "https://www.city.wako.lg.jp/machizukuri/midori/1005825/1013694.html",
+    "date": "2026-08-14",
+    "categories": [
+      "祭り・催し",
+      "子ども・子育て",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "森の ごろごろシネマ",
@@ -603,7 +603,7 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/260925wako1-212x300.jpg"
   },
   {
-    "title": "第3回むさしの和太鼓祭",
+    "title": "第3回むさしの和太鼓祭　若き鼓動in和光",
     "url": "https://www.sunazalea.or.jp/event/20260927-%e7%ac%ac3%e5%9b%9e%e3%82%80%e3%81%95%e3%81%97%e3%81%ae%e5%92%8c%e5%a4%aa%e9%bc%93%e7%a5%ad/",
     "date": "2026-09-27",
     "categories": [
