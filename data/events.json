@@ -225,17 +225,6 @@
     "imageUrl": null
   },
   {
-    "title": "セミの羽化観察【申込終了】",
-    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026061614411512720.html",
-    "date": "2026-07-25",
-    "categories": [
-      "公園",
-      "屋外"
-    ],
-    "source": "和光樹林公園",
-    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/b77f2db2632571047a1a1fc7eecc3ce2-4-330x261.jpg"
-  },
-  {
     "title": "手形・小切手の利用廃止及びでんさいに関するお知らせ",
     "url": "https://wako-sci.or.jp/archives/268718",
     "date": "2026/07/28",
@@ -284,6 +273,16 @@
     ],
     "source": "号外NET",
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/08/24998652_s.jpg"
+  },
+  {
+    "title": "【和光市】8月7日は数量限定スイカ特売！桃フェアやお盆用品大売り出しも開催の「和光農産物直売センター」8月イベントスケジュール！",
+    "url": "https://asaka-wako.goguynet.jp/2026/08/07/ja-asakano/",
+    "date": "2026-08-07",
+    "categories": [
+      "地域ニュース"
+    ],
+    "source": "号外NET",
+    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/08/146021E0-BF13-45E7-BB33-89F8363B2508-1.jpg"
   },
   {
     "title": "【8月10日】ハンドテクニックと感情ケアワークショップ",
@@ -358,6 +357,16 @@
     ],
     "source": "号外NET",
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/07/IMG_1694-1.jpg"
+  },
+  {
+    "title": "和楽器体験教室「お箏（こと）教室」",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013700.html",
+    "date": "2026-08-17",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "【児童センター】出張スタジオ 8月18日（火）～こども縁日～ 撮影会",
