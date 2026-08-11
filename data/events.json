@@ -275,16 +275,6 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/08/24998652_s.jpg"
   },
   {
-    "title": "【和光市】8月7日は数量限定スイカ特売！桃フェアやお盆用品大売り出しも開催の「和光農産物直売センター」8月イベントスケジュール！",
-    "url": "https://asaka-wako.goguynet.jp/2026/08/07/ja-asakano/",
-    "date": "2026-08-07",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/08/146021E0-BF13-45E7-BB33-89F8363B2508-1.jpg"
-  },
-  {
     "title": "【8月10日】ハンドテクニックと感情ケアワークショップ",
     "url": "https://wapia.jp/%e3%80%908%e6%9c%8810%e6%97%a5%e3%80%91%e3%83%8f%e3%83%b3%e3%83%89%e3%83%86%e3%82%af%e3%83%8b%e3%83%83%e3%82%af%e3%81%a8%e6%84%9f%e6%83%85%e3%82%b1%e3%82%a2%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7/",
     "date": "2026-08-10",
@@ -322,7 +312,7 @@
     "categories": [
       "祭り・催し",
       "子ども・子育て",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -433,7 +423,7 @@
     "date": "2026-08-19",
     "categories": [
       "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -447,6 +437,16 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+  },
+  {
+    "title": "令和8年度　子ども大学わこう第16期生　募集",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1004938/1013648.html",
+    "date": "2026-08-20",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "募集終了"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "清水かつら記念 第21回 日本歌曲 歌唱コンクール 本選審査会",
@@ -619,6 +619,17 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/motocoyote2026.jpg"
   },
   {
+    "title": "ワンちゃんのしつけ教室　2026年秋",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026081111202112909.html",
+    "date": "2026-09-20",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/c478b1a6dedb96603a486610161ab963-34-330x224.jpg"
+  },
+  {
     "title": "【児童センター】9月21日（月・祝）キッズパークdeママリフレッシュ",
     "url": "https://wapia.jp/mamarihu/",
     "date": "2026-09-21",
@@ -659,6 +670,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/第3回むさしの和太鼓祭-広告データ-214x300.jpg"
+  },
+  {
+    "title": "あおぞらヨガ〈和光市総合体育館・和光樹林公園コラボイベント〉",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026081111211712936.html",
+    "date": "2026-09-27",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-169-330x248.jpg"
   },
   {
     "title": "【和光市】タイトーステーション和光店が9月30日に閉店へ。18年の営業に幕。跡地のマンション&テナント情報も！【メダルに関する注意点も】",
