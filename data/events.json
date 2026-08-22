@@ -245,16 +245,6 @@
     "imageUrl": null
   },
   {
-    "title": "令和8年度　子ども大学わこう第16期生",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1004938/1013648.html",
-    "date": "2026-08-21",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "白子川わくわく体験ツアー",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1012293.html",
     "date": "2026-08-22",
@@ -275,17 +265,6 @@
     "source": "和光市公式"
   },
   {
-    "title": "【分館】8/22（土曜日）中高生限定　図書館クラブ「本の手書きPOPづくり」",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013725.html",
-    "date": "2026-08-22",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "体験（つくる・参加する）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "清水かつら記念 第21回 日本歌曲 歌唱コンクール 本選審査会",
     "url": "https://www.sunazalea.or.jp/event/20260822-%e6%b8%85%e6%b0%b4%e3%81%8b%e3%81%a4%e3%82%89%e8%a8%98%e5%bf%b5-%e7%ac%ac21%e5%9b%9e-%e6%97%a5%e6%9c%ac%e6%ad%8c%e6%9b%b2-%e6%ad%8c%e5%94%b1%e3%82%b3%e3%83%b3%e3%82%af%e3%83%bc%e3%83%ab-%e6%9c%ac/",
     "date": "2026-08-22",
@@ -294,16 +273,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/本選審査会.jpg"
-  },
-  {
-    "title": "申込期間を延長しました！【分館】中高生限定！8/22（土）図書館クラブ「本の手書きPOPづくり」",
-    "url": "https://www.wakolib.jp/eventnews/88pop_4.html",
-    "date": "2026-08-22",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   },
   {
     "title": "GRe4N BOYZ イマーシブライブシアター2026「”The ZA”～溢れる想いが止まらない～」",
@@ -324,6 +293,17 @@
       "健康・福祉・スポーツ"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【児童センター】8月26日（水）すまいる工房がパンの販売をします！",
+    "url": "https://wapia.jp/smilekobo/",
+    "date": "2026-08-26",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "「365Anniversary」シェフの料理教室",
@@ -413,6 +393,28 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【児童センター】9月8日（火）読み聞かせ会",
+    "url": "https://wapia.jp/yomikikasekai/",
+    "date": "2026-09-08",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/08/%EF%BC%95_20250819_130055_0000-e1756877290701-320x227.jpg"
+  },
+  {
+    "title": "【児童センター】9月9日（水）子連れdeママエクササイズ",
+    "url": "https://wapia.jp/mamaekusa/",
+    "date": "2026-09-09",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
   },
   {
     "title": "アンジュルム2026秋風林火山・弐",
@@ -636,6 +638,17 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/10月市民オーケストラ-チラシ-212x300.jpg"
   },
   {
+    "title": "2026年10月12日（月・祝）わこうスポーツ祭り",
+    "url": "https://wapia.jp/10-13%ef%bc%88%e6%9c%88%e3%83%bb%e7%a5%9d%ef%bc%89%e3%82%8f%e3%81%93%e3%81%86%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e7%a5%ad%e3%82%8a/",
+    "date": "2026-10-12",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E3%82%8F%E3%81%93%E3%81%86%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A5%AD%E3%82%8A_%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
+  },
+  {
     "title": "𠮷田正記念オーケストラ「元気が出る！映画音楽&昭和歌謡」ノスタルジーコンサート",
     "url": "https://www.sunazalea.or.jp/event/20261025-%f0%a0%ae%b7%e7%94%b0%e6%ad%a3%e8%a8%98%e5%bf%b5%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9/",
     "date": "2026-10-25",
@@ -665,6 +678,16 @@
     ],
     "source": "和光子育てネットワーク",
     "imageUrl": "https://cdn.peraichi.com/userData/5fd18f1a-c410-490e-9fe0-30670a000054/img/5fff1a5ae2932/original.jpg"
+  },
+  {
+    "title": "【分館】2/28(土)　市制55周年　市民図書館講座　図書館の記憶と記録：大和町から和光市への歩みを図書館の歴史からたどる",
+    "url": "https://www.wakolib.jp/eventnews/118_4.html",
+    "date": "2027-02-28",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   },
   {
     "title": "まだ、人数に空きがございます。どうぞ、お申し込みください！【本館】3/7（土）ぶっくわ－るど「不思議がいっぱい　楽しい、おもしろい、ちょっとこわいおはなしを紹介します。」を開催します！",
