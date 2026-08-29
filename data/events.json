@@ -1,16 +1,5 @@
 [
   {
-    "title": "和光市駅前マルシェ！",
-    "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012706.html",
-    "date": "2025-09-06",
-    "categories": [
-      "祭り・催し",
-      "駅前"
-    ],
-    "source": "和光市（商工イベント）",
-    "imageUrl": null
-  },
-  {
     "title": "女性経営者応援！わこう駅前マルシェ",
     "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012857.html",
     "date": "2025-10-18",
@@ -245,17 +234,6 @@
     "imageUrl": null
   },
   {
-    "title": "【児童センター】8月26日（水）すまいる工房がパンの販売をします！",
-    "url": "https://wapia.jp/smilekobo/",
-    "date": "2026-08-26",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
-  },
-  {
     "title": "「365Anniversary」シェフの料理教室",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013960.html",
     "date": "2026-09-01",
@@ -355,17 +333,6 @@
     "source": "和光市公式"
   },
   {
-    "title": "【児童センター】9月8日（火）読み聞かせ会",
-    "url": "https://wapia.jp/yomikikasekai/",
-    "date": "2026-09-08",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/08/%EF%BC%95_20250819_130055_0000-e1756877290701-320x227.jpg"
-  },
-  {
     "title": "【児童センター】9月9日（水）子連れdeママエクササイズ",
     "url": "https://wapia.jp/mamaekusa/",
     "date": "2026-09-09",
@@ -375,6 +342,17 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+  },
+  {
+    "title": "【児童センター】9月11日（金）すまいる工房がパンの販売をします！",
+    "url": "https://wapia.jp/smilekobo/",
+    "date": "2026-09-11",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "アンジュルム2026秋風林火山・弐",
@@ -395,6 +373,27 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "/asset/img/photo_dummy.jpg"
+  },
+  {
+    "title": "【分館】9/12（土）絵本とおはなしの会",
+    "url": "https://www.wakolib.jp/eventnews/711_2.html",
+    "date": "2026-09-12",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
+    "title": "和光市駅前グルメ",
+    "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012706.html",
+    "date": "2026-09-12",
+    "categories": [
+      "祭り・催し",
+      "駅前"
+    ],
+    "source": "和光市（商工イベント）",
+    "imageUrl": null
   },
   {
     "title": "【分館】9/13（日）英語おはなし会Peek'n See!「Moon Magic　えほんでお月見」",
@@ -436,6 +435,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/260925wako1-212x300.jpg"
+  },
+  {
+    "title": "【ぼうけん広場】9月25日（金） ぷちプレーパーク",
+    "url": "https://wapia.jp/playpark/",
+    "date": "2026-09-25",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
   },
   {
     "title": "【分館】9/26（土）第2回子どもの科学「酸とアルカリであそぼう！～おふろのシュワちゃんをつくろう～」",
@@ -559,7 +569,7 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/【T.T彩たま】SUNAZALEA-7.8.9月号掲載用ビジュアル-212x300.jpg"
   },
   {
-    "title": "令和7年度ヘルスサポーター養成講座　受講者受付中！",
+    "title": "令和8年度ヘルスサポーター養成講座　受講者受付中！",
     "url": "https://www.city.wako.lg.jp/kenko/1004192/1010167/1004639.html",
     "date": "2026-10-06",
     "categories": [
@@ -661,6 +671,16 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/和光公演チラシ-1-212x300.jpg"
   },
   {
+    "title": "SUNAZALEA SUPPORT PROGRAM　SUNAZALEAアクト企画vol.8 心うるおす４つの声と楽器のファンタジー 音大生が贈る親子で楽しむ歌の世界！",
+    "url": "https://www.sunazalea.or.jp/event/20261028-sunazalea-support-program%e3%80%80sunazalea%e3%82%a2%e3%82%af%e3%83%88%e4%bc%81%e7%94%bbvol-8-%e5%bf%83%e3%81%86%e3%82%8b%e3%81%8a%e3%81%99%ef%bc%94%e3%81%a4%e3%81%ae%e5%a3%b0%e3%81%a8%e6%a5%bd/",
+    "date": "2026-10-28",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/1028チラシ表面②横1000-217x300.jpg"
+  },
+  {
     "title": "【児童センター】~親子向け野球体験イベント~ 10月31日(土)",
     "url": "https://wapia.jp/261031lionsoyako/",
     "date": "2026-10-31",
@@ -691,15 +711,5 @@
     ],
     "source": "和光子育てネットワーク",
     "imageUrl": "https://cdn.peraichi.com/userData/5fd18f1a-c410-490e-9fe0-30670a000054/img/5fff1a5ae2932/original.jpg"
-  },
-  {
-    "title": "まだ、人数に空きがございます。どうぞ、お申し込みください！【本館】3/7（土）ぶっくわ－るど「不思議がいっぱい　楽しい、おもしろい、ちょっとこわいおはなしを紹介します。」を開催します！",
-    "url": "https://www.wakolib.jp/eventnews/37_1.html",
-    "date": "2027-03-07",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   }
 ]
