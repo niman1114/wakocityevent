@@ -83,27 +83,6 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/05/IMG_0477.jpg"
   },
   {
-    "title": "令和８年度　ポップアップストア　出品者募集のお知らせ",
-    "url": "https://wako-sci.or.jp/archives/268674",
-    "date": "2026/07/08",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
-    "title": "ニホンミツバチの蜜源めぐり　～スマホアプリでスタンプラリー～",
-    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026062917160312724.html",
-    "date": "2026-07-11",
-    "categories": [
-      "公園",
-      "屋外"
-    ],
-    "source": "和光樹林公園",
-    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/0f542919fa980b81ae434de013a356b4-13-330x290.jpg"
-  },
-  {
     "title": "【分館】令和8年度英語おはなし会 Peek'n See!　※一部変更になりました（7月19日更新）",
     "url": "https://www.wakolib.jp/eventnews/7_peekn_see.html",
     "date": "2026-07-19",
@@ -126,16 +105,6 @@
   {
     "title": "【埼玉県】令和８年度県内中小企業指導者合同研修会のご案内",
     "url": "https://wako-sci.or.jp/archives/268704",
-    "date": "2026/07/22",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
-    "title": "【埼玉県】中東情勢に伴う価格高騰・供給不足緊急支援事業のご案内",
-    "url": "https://wako-sci.or.jp/archives/268702",
     "date": "2026/07/22",
     "categories": [
       "商工会"
@@ -234,6 +203,26 @@
     "imageUrl": null
   },
   {
+    "title": "【埼玉県より】認定エッセンシャルサービス制度活用セミナーの開催のご案内",
+    "url": "https://wako-sci.or.jp/archives/268758",
+    "date": "2026/08/31",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "中小企業庁主催「価格交渉講習会（埼玉開催）」のご案内",
+    "url": "https://wako-sci.or.jp/archives/268755",
+    "date": "2026/08/31",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
     "title": "「365Anniversary」シェフの料理教室",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013960.html",
     "date": "2026-09-01",
@@ -323,7 +312,7 @@
     "source": "和光市公式"
   },
   {
-    "title": "つるし雛教室の開催",
+    "title": "つるし雛教室の開催【募集は終了いたしました】",
     "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1011518/1013748.html",
     "date": "2026-09-08",
     "categories": [
@@ -342,6 +331,17 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+  },
+  {
+    "title": "【児童センター】あそびサークル ～からだをつかってあそぼう～ 9月11日（金）",
+    "url": "https://wapia.jp/asobicircle/",
+    "date": "2026-09-11",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202509-e1788149448514-320x227.jpg"
   },
   {
     "title": "【児童センター】9月11日（金）すまいる工房がパンの販売をします！",
@@ -581,7 +581,7 @@
     "source": "和光市公式"
   },
   {
-    "title": "つるし雛教室の開催",
+    "title": "つるし雛教室の開催【募集は終了いたしました】",
     "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1011518/1013748.html",
     "date": "2026-10-06",
     "categories": [
@@ -596,6 +596,25 @@
     "date": "2026-10-08",
     "categories": [
       "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "第24回北足立郡市町人権フェスティバルを開催します",
+    "url": "https://www.city.wako.lg.jp/kurashi/jinken/1005363/1005366/1005368.html",
+    "date": "2026-10-09",
+    "categories": [
+      "祭り・催し"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "和光市民大学2026/特別講座～AIと共に生きる世代のSNS・ネットのリアル～",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1011164/1013964.html",
+    "date": "2026-10-09",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
     ],
     "source": "和光市公式"
   },
@@ -692,6 +711,78 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/LIONS-%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF-320x227.jpg"
   },
   {
+    "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
+    "url": "https://www.city.wako.lg.jp/kosodate/1000009/1009700/1003721/1003725.html",
+    "date": "2026-11-05",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "健康マージャン講座（全12回）",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
+    "date": "2026-11-05",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】あかちゃんタイム",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1011080.html",
+    "date": "2026-11-05",
+    "categories": [
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
+    "url": "https://www.city.wako.lg.jp/kosodate/1000009/1009700/1003721/1003725.html",
+    "date": "2026-11-06",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "令和8年度ヘルスサポーター養成講座　受講者受付中！",
+    "url": "https://www.city.wako.lg.jp/kenko/1004192/1010167/1004639.html",
+    "date": "2026-11-06",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て",
+      "健康・福祉・スポーツ",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "令和8年度白子囃子体験講座",
+    "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013981.html",
+    "date": "2026-11-07",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "ヘルシーライフスタイル教室（健康教室）",
+    "url": "https://www.city.wako.lg.jp/kenko/1004192/1010167/1012180.html",
+    "date": "2026-11-10",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "体験（つくる・参加する）",
+      "健康・福祉・スポーツ",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "近藤嘉宏 ピアノ・リサイタル The ショパン!!",
     "url": "https://www.sunazalea.or.jp/event/20261128-%e8%bf%91%e8%97%a4%e5%98%89%e5%ae%8f-%e3%83%94%e3%82%a2%e3%83%8e%e3%83%bb%e3%83%aa%e3%82%b5%e3%82%a4%e3%82%bf%e3%83%ab-the-%e3%82%b7%e3%83%a7%e3%83%91%e3%83%b3/",
     "date": "2026-11-28",
@@ -700,6 +791,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/近藤嘉宏2026ショパン案2-212x300.jpg"
+  },
+  {
+    "title": "よしもとお笑いライブ in 和光 2026  ～秋の大爆笑ネタまつり～",
+    "url": "https://www.sunazalea.or.jp/event/20261130-%e3%82%88%e3%81%97%e3%82%82%e3%81%a8%e3%81%8a%e7%ac%91%e3%81%84%e3%83%a9%e3%82%a4%e3%83%96-in-%e5%92%8c%e5%85%89-2026-%ef%bd%9e%e7%a7%8b%e3%81%ae%e5%a4%a7%e7%88%86%e7%ac%91%e3%83%8d%e3%82%bf%e3%81%be/",
+    "date": "2026-11-30",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/チラシよしもと2026-214x300.jpeg"
   },
   {
     "title": "クリスマスこどもフェス",
