@@ -223,16 +223,6 @@
     "imageUrl": null
   },
   {
-    "title": "「365Anniversary」シェフの料理教室",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013960.html",
-    "date": "2026-09-01",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "健康マージャン講座（全12回）",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
     "date": "2026-09-03",
@@ -310,6 +300,39 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【児童センター】9月9日（水）子連れdeママエクササイズ",
+    "url": "https://wapia.jp/mamaekusa/",
+    "date": "2026-09-09",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+  },
+  {
+    "title": "【児童センター】あそびサークル ～からだをつかってあそぼう～ 9月11日（金）",
+    "url": "https://wapia.jp/asobicircle/",
+    "date": "2026-09-11",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202509-e1788149448514-320x227.jpg"
+  },
+  {
+    "title": "【児童センター】9月11日（金）すまいる工房がパンの販売をします！",
+    "url": "https://wapia.jp/smilekobo/",
+    "date": "2026-09-11",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "アンジュルム2026秋風林火山・弐",
@@ -394,6 +417,17 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/260925wako1-212x300.jpg"
   },
   {
+    "title": "【ぼうけん広場】9月25日（金） ぷちプレーパーク",
+    "url": "https://wapia.jp/playpark/",
+    "date": "2026-09-25",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
+  },
+  {
     "title": "【分館】9/26（土）第2回子どもの科学「酸とアルカリであそぼう！～おふろのシュワちゃんをつくろう～」",
     "url": "https://www.wakolib.jp/eventnews/9272.html",
     "date": "2026-09-26",
@@ -423,6 +457,17 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-169-330x248.jpg"
+  },
+  {
+    "title": "9月27日(日) 第4回和光こどもまつり開催",
+    "url": "https://wapia.jp/4thwakokodomomaturi/",
+    "date": "2026-09-27",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E5%92%8C%E5%85%89%E3%81%93%E3%81%A9%E3%82%82%E3%81%BE%E3%81%A4%E3%82%8A-320x227.png"
   },
   {
     "title": "ウイッグユキ展示会",
@@ -614,6 +659,17 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/10月市民オーケストラ-チラシ-212x300.jpg"
   },
   {
+    "title": "2026年10月12日（月・祝）わこうスポーツ祭り",
+    "url": "https://wapia.jp/10-13%ef%bc%88%e6%9c%88%e3%83%bb%e7%a5%9d%ef%bc%89%e3%82%8f%e3%81%93%e3%81%86%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e7%a5%ad%e3%82%8a/",
+    "date": "2026-10-12",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E3%82%8F%E3%81%93%E3%81%86%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A5%AD%E3%82%8A_%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
+  },
+  {
     "title": "マチナカコンサートin和光市中央公民館",
     "url": "https://www.sunazalea.or.jp/event/20261025-%e3%83%9e%e3%83%81%e3%83%8a%e3%82%ab%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88in%e5%92%8c%e5%85%89%e5%b8%82%e4%b8%ad%e5%a4%ae%e5%85%ac%e6%b0%91%e9%a4%a8/",
     "date": "2026-10-25",
@@ -642,6 +698,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/1028チラシ表面②横1000-217x300.jpg"
+  },
+  {
+    "title": "【児童センター】~親子向け野球体験イベント~ 10月31日(土)",
+    "url": "https://wapia.jp/261031lionsoyako/",
+    "date": "2026-10-31",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/LIONS-%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF-320x227.jpg"
   },
   {
     "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
@@ -714,6 +781,16 @@
       "事前申込必要"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "和光市民吹奏楽団 団創設40周年記念 第34回定期演奏会",
+    "url": "https://www.sunazalea.or.jp/event/20261122-%e5%92%8c%e5%85%89%e5%b8%82%e6%b0%91%e5%90%b9%e5%a5%8f%e6%a5%bd%e5%9b%a3-%e5%9b%a3%e5%89%b5%e8%a8%ad40%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5-%e7%ac%ac34%e5%9b%9e%e5%ae%9a%e6%9c%9f%e6%bc%94%e5%a5%8f/",
+    "date": "2026-11-22",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/チラシ0817横1000-212x300.jpg"
   },
   {
     "title": "近藤嘉宏 ピアノ・リサイタル The ショパン!!",
