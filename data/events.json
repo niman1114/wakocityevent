@@ -93,48 +93,8 @@
     "imageUrl": null
   },
   {
-    "title": "【埼玉県】令和８年度第２回働き方改革セミナーのご案内",
-    "url": "https://wako-sci.or.jp/archives/268706",
-    "date": "2026/07/22",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
-    "title": "【埼玉県】令和８年度県内中小企業指導者合同研修会のご案内",
-    "url": "https://wako-sci.or.jp/archives/268704",
-    "date": "2026/07/22",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
-    "title": "【埼玉労働局】改正労働施策総合推進法等説明会のご案内",
-    "url": "https://wako-sci.or.jp/archives/268708",
-    "date": "2026/07/23",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
     "title": "手形・小切手の利用廃止及びでんさいに関するお知らせ",
     "url": "https://wako-sci.or.jp/archives/268718",
-    "date": "2026/07/28",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
-    "title": "【埼玉県】サステナブル企業認証制度の令和８年度の申請受付のご案内",
-    "url": "https://wako-sci.or.jp/archives/268716",
     "date": "2026/07/28",
     "categories": [
       "商工会"
@@ -241,6 +201,46 @@
     "source": "和光市公式"
   },
   {
+    "title": "中小企業庁より2026年9月「価格交渉促進月間」について",
+    "url": "https://wako-sci.or.jp/archives/268768",
+    "date": "2026/09/03",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "埼玉県より「令和８年度後期技能検定受検」のご案内",
+    "url": "https://wako-sci.or.jp/archives/268765",
+    "date": "2026/09/03",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "埼玉県より「人材戦略アドバイザーによる個別相談」のご案内",
+    "url": "https://wako-sci.or.jp/archives/268763",
+    "date": "2026/09/03",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "全国連より「東京大学松尾・岩澤研究室　AXエバンジェリスト講座」開講のご案内",
+    "url": "https://wako-sci.or.jp/archives/268761",
+    "date": "2026/09/03",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
     "title": "和墨会作品展オープニングコンサート",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1014023.html",
     "date": "2026-09-05",
@@ -302,17 +302,6 @@
     "source": "和光市公式"
   },
   {
-    "title": "【児童センター】9月9日（水）子連れdeママエクササイズ",
-    "url": "https://wapia.jp/mamaekusa/",
-    "date": "2026-09-09",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
-  },
-  {
     "title": "【児童センター】あそびサークル ～からだをつかってあそぼう～ 9月11日（金）",
     "url": "https://wapia.jp/asobicircle/",
     "date": "2026-09-11",
@@ -333,6 +322,45 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
+  },
+  {
+    "title": "女性向け創業セミナー",
+    "url": "https://www.city.wako.lg.jp/jigyosha/koyo/1003450/1011272.html",
+    "date": "2026-09-12",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "将棋のつどい",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009731.html",
+    "date": "2026-09-12",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】令和8年度絵本とおはなしの会",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013258.html",
+    "date": "2026-09-12",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "和光市駅前グルメ",
+    "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012706.html",
+    "date": "2026-09-12",
+    "categories": [
+      "祭り・催し"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "アンジュルム2026秋風林火山・弐",
@@ -362,17 +390,6 @@
       "図書館"
     ],
     "source": "和光市図書館",
-    "imageUrl": null
-  },
-  {
-    "title": "和光市駅前グルメ",
-    "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012706.html",
-    "date": "2026-09-12",
-    "categories": [
-      "祭り・催し",
-      "駅前"
-    ],
-    "source": "和光市（商工イベント）",
     "imageUrl": null
   },
   {
@@ -478,16 +495,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/02/index-300x300.jpg"
-  },
-  {
-    "title": "【和光市】タイトーステーション和光店が9月30日に閉店へ。18年の営業に幕。跡地のマンション&テナント情報も！【メダルに関する注意点も】",
-    "url": "https://asaka-wako.goguynet.jp/2026/07/31/taito/",
-    "date": "2026-09-30",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/PXL_20260719_062954642.jpg"
   },
   {
     "title": "健康マージャン講座（全12回）",
