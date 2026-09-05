@@ -103,16 +103,6 @@
     "imageUrl": null
   },
   {
-    "title": "【朝霞市・和光市】朗報！8月6日から東武東上線で「FRUITS ZIPPER」コラボイベント！発車メロディや限定アナウンス・スタンプラリーなど『TOBU KAWAII PROJECT』開催",
-    "url": "https://asaka-wako.goguynet.jp/2026/08/05/fruitszipper/",
-    "date": "2026-08-06",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/08/main-1280x960.jpg"
-  },
-  {
     "title": "女性向け創業セミナーを開催します！",
     "url": "https://wako-sci.or.jp/archives/268733",
     "date": "2026/08/07",
@@ -223,17 +213,6 @@
     "imageUrl": null
   },
   {
-    "title": "手持ち花火のイベント【満員】",
-    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026080215415512895.html",
-    "date": "2026-09-04",
-    "categories": [
-      "公園",
-      "屋外"
-    ],
-    "source": "和光樹林公園",
-    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-168-330x234.jpg"
-  },
-  {
     "title": "和墨会作品展オープニングコンサート",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1014023.html",
     "date": "2026-09-05",
@@ -252,6 +231,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/00_morning1053.jpeg"
+  },
+  {
+    "title": "台風の影響による悪天候について 9月6日（日）・9月7日（月）",
+    "url": "https://wapia.jp/taifuu/",
+    "date": "2026-09-06",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/09/%E3%82%B1%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF-e1788584600751-320x227.jpg"
   },
   {
     "title": "【本館】9月のブックスタート",
@@ -406,6 +396,26 @@
       "事前申込必要"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "「MYライフ&エンディング」を考えよう",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1009689/1014007.html",
+    "date": "2026-09-14",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】9/16（水）小学生向けひまわりおはなし会",
+    "url": "https://www.wakolib.jp/eventnews/715.html",
+    "date": "2026-09-16",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   },
   {
     "title": "MOTOHARU SANO & THE COYOTE BAND  “IN & OUT TOUR 2026”",
@@ -701,17 +711,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/10月市民オーケストラ-チラシ-212x300.jpg"
-  },
-  {
-    "title": "2026年10月12日（月・祝）わこうスポーツ祭り",
-    "url": "https://wapia.jp/10-13%ef%bc%88%e6%9c%88%e3%83%bb%e7%a5%9d%ef%bc%89%e3%82%8f%e3%81%93%e3%81%86%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e7%a5%ad%e3%82%8a/",
-    "date": "2026-10-12",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E3%82%8F%E3%81%93%E3%81%86%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A5%AD%E3%82%8A_%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
   },
   {
     "title": "マチナカコンサートin和光市中央公民館",
