@@ -213,16 +213,6 @@
     "imageUrl": null
   },
   {
-    "title": "和墨会作品展オープニングコンサート",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1014023.html",
-    "date": "2026-09-05",
-    "categories": [
-      "祭り・催し",
-      "観賞・コンサート（見る・聴く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "モーニング娘 。’26　コンサートツアー秋　「超  Heartful 11」",
     "url": "https://www.sunazalea.or.jp/event/20260905-%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e5%a8%98-%e3%80%8226%e3%80%80%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88%e3%83%84%e3%82%a2%e3%83%bc%e7%a7%8b%e3%80%80%e3%80%8c%e8%b6%85-heartful-11/",
     "date": "2026-09-05",
@@ -231,17 +221,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/00_morning1053.jpeg"
-  },
-  {
-    "title": "台風の影響による悪天候について 9月6日（日）・9月7日（月）",
-    "url": "https://wapia.jp/taifuu/",
-    "date": "2026-09-06",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/09/%E3%82%B1%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF-e1788584600751-320x227.jpg"
   },
   {
     "title": "【本館】9月のブックスタート",
@@ -272,28 +251,6 @@
       "募集終了"
     ],
     "source": "和光市公式"
-  },
-  {
-    "title": "【児童センター】あそびサークル ～からだをつかってあそぼう～ 9月11日（金）",
-    "url": "https://wapia.jp/asobicircle/",
-    "date": "2026-09-11",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202509-e1788149448514-320x227.jpg"
-  },
-  {
-    "title": "【児童センター】9月11日（金）すまいる工房がパンの販売をします！",
-    "url": "https://wapia.jp/smilekobo/",
-    "date": "2026-09-11",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "女性向け創業セミナー",
@@ -408,6 +365,26 @@
     "source": "和光市公式"
   },
   {
+    "title": "おしゃべり広場 子育てサロン【毎月第3火曜】",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009728.html",
+    "date": "2026-09-15",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "つるし雛教室の開催【募集は終了いたしました】",
+    "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1011518/1013748.html",
+    "date": "2026-09-15",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "【分館】9/16（水）小学生向けひまわりおはなし会",
     "url": "https://www.wakolib.jp/eventnews/715.html",
     "date": "2026-09-16",
@@ -459,18 +436,7 @@
     "imageUrl": null
   },
   {
-    "title": "【ぼうけん広場】9月25日（金） ぷちプレーパーク",
-    "url": "https://wapia.jp/playpark/",
-    "date": "2026-09-25",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
-  },
-  {
-    "title": "【分館】9/26（土）第2回子どもの科学「酸とアルカリであそぼう！～おふろのシュワちゃんをつくろう～」",
+    "title": "申込受付終了【分館】9/26（土）第2回子どもの科学「酸とアルカリであそぼう！～おふろのシュワちゃんをつくろう～」",
     "url": "https://www.wakolib.jp/eventnews/9272.html",
     "date": "2026-09-26",
     "categories": [
@@ -499,17 +465,6 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-169-330x248.jpg"
-  },
-  {
-    "title": "9月27日(日) 第4回和光こどもまつり開催",
-    "url": "https://wapia.jp/4thwakokodomomaturi/",
-    "date": "2026-09-27",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E5%92%8C%E5%85%89%E3%81%93%E3%81%A9%E3%82%82%E3%81%BE%E3%81%A4%E3%82%8A-320x227.png"
   },
   {
     "title": "ウイッグユキ展示会",
@@ -741,17 +696,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/1028チラシ表面②横1000-217x300.jpg"
-  },
-  {
-    "title": "【児童センター】~親子向け野球体験イベント~ 10月31日(土)",
-    "url": "https://wapia.jp/261031lionsoyako/",
-    "date": "2026-10-31",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/LIONS-%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AF-320x227.jpg"
   },
   {
     "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
