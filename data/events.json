@@ -93,26 +93,6 @@
     "imageUrl": null
   },
   {
-    "title": "手形・小切手の利用廃止及びでんさいに関するお知らせ",
-    "url": "https://wako-sci.or.jp/archives/268718",
-    "date": "2026/07/28",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
-    "title": "女性向け創業セミナーを開催します！",
-    "url": "https://wako-sci.or.jp/archives/268733",
-    "date": "2026/08/07",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
     "title": "【朝霞市・和光市】涼しい室内で夏休みの自由研究を楽しもう！8月7日・19日・21日「キテレツ自由研究室」開催！絶品フードや駄菓子屋も登場",
     "url": "https://asaka-wako.goguynet.jp/2026/08/06/kiteretsu/",
     "date": "2026-08-07",
@@ -213,14 +193,15 @@
     "imageUrl": null
   },
   {
-    "title": "モーニング娘 。’26　コンサートツアー秋　「超  Heartful 11」",
-    "url": "https://www.sunazalea.or.jp/event/20260905-%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e5%a8%98-%e3%80%8226%e3%80%80%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88%e3%83%84%e3%82%a2%e3%83%bc%e7%a7%8b%e3%80%80%e3%80%8c%e8%b6%85-heartful-11/",
-    "date": "2026-09-05",
+    "title": "台風の影響による悪天候について 9月6日（日）・9月7日（月）",
+    "url": "https://wapia.jp/taifuu/",
+    "date": "2026-09-06",
     "categories": [
-      "大ホール"
+      "わぴあ",
+      "屋内"
     ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/07/00_morning1053.jpeg"
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/09/%E3%82%B1%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF-e1788584600751-320x227.jpg"
   },
   {
     "title": "【本館】9月のブックスタート",
@@ -231,6 +212,26 @@
       "事前申込必要"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "「シニア世代対象就職面接会」参加企業募集のお知らせ",
+    "url": "https://wako-sci.or.jp/archives/268775",
+    "date": "2026/09/07",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "【埼玉県】多様な働き方実践企業認定制度のご案内",
+    "url": "https://wako-sci.or.jp/archives/268772",
+    "date": "2026/09/07",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
   },
   {
     "title": "若返り学級",
@@ -251,6 +252,28 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【児童センター】9月9日（水）子連れdeママエクササイズ",
+    "url": "https://wapia.jp/mamaekusa/",
+    "date": "2026-09-09",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+  },
+  {
+    "title": "【児童センター】あそびサークル ～からだをつかってあそぼう～ 9月11日（金）",
+    "url": "https://wapia.jp/asobicircle/",
+    "date": "2026-09-11",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202509-e1788149448514-320x227.jpg"
   },
   {
     "title": "女性向け創業セミナー",
@@ -355,6 +378,17 @@
     "source": "和光市公式"
   },
   {
+    "title": "9月13日（日）ご縁のひろば",
+    "url": "https://wapia.jp/9%e6%9c%8813%e6%97%a5%ef%bc%88%e6%97%a5%ef%bc%89%e3%81%94%e7%b8%81%e3%81%ae%e3%81%b2%e3%82%8d%e3%81%b0/",
+    "date": "2026-09-13",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/09/%E3%81%94%E7%B8%81%E3%81%AE%E3%81%B2%E3%82%8D%E3%81%B0_0913-320x227.jpg"
+  },
+  {
     "title": "「MYライフ&エンディング」を考えよう",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1009689/1014007.html",
     "date": "2026-09-14",
@@ -381,6 +415,16 @@
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】令和8年度ひまわりおはなし会",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013317.html",
+    "date": "2026-09-16",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
     ],
     "source": "和光市公式"
   },
@@ -416,6 +460,28 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/c478b1a6dedb96603a486610161ab963-34-330x224.jpg"
   },
   {
+    "title": "【児童センター】9月21日（月・祝）キッズパークdeママリフレッシュ",
+    "url": "https://wapia.jp/mamarihu/",
+    "date": "2026-09-21",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95_202608-e1784084903917-320x227.jpg"
+  },
+  {
+    "title": "【児童センター】9月21日 （月・祝）室内キッズパークINシアターアリーナ",
+    "url": "https://wapia.jp/situnaiplaypark/",
+    "date": "2026-09-21",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/07/%E4%BC%81%E7%94%BB_%E5%AE%A4%E5%86%85_202608--e1784083327947-320x227.jpg"
+  },
+  {
     "title": "THE カルテット　昭和歌謡コンサート",
     "url": "https://www.sunazalea.or.jp/event/20260925-the-%e3%82%ab%e3%83%ab%e3%83%86%e3%83%83%e3%83%88%e3%80%80%e6%98%ad%e5%92%8c%e6%ad%8c%e8%ac%a1%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88/",
     "date": "2026-09-25",
@@ -434,6 +500,17 @@
     ],
     "source": "和光市図書館",
     "imageUrl": null
+  },
+  {
+    "title": "【ぼうけん広場】9月25日（金） ぷちプレーパーク",
+    "url": "https://wapia.jp/playpark/",
+    "date": "2026-09-25",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
   },
   {
     "title": "申込受付終了【分館】9/26（土）第2回子どもの科学「酸とアルカリであそぼう！～おふろのシュワちゃんをつくろう～」",
@@ -675,7 +752,7 @@
       "その他"
     ],
     "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/マチコンin中央公民館2026ol-1-214x300.jpg"
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/マチコンin中央公民館2026ol-2-214x300.jpg"
   },
   {
     "title": "𠮷田正記念オーケストラ「元気が出る！映画音楽&昭和歌謡」ノスタルジーコンサート",
@@ -768,6 +845,16 @@
       "事前申込必要"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "江上兄弟と細貝柊・武田圭司の昭和歌謡コンサート",
+    "url": "https://www.sunazalea.or.jp/event/20261115-%e6%b1%9f%e4%b8%8a%e5%85%84%e5%bc%9f%e3%81%a8%e7%b4%b0%e8%b2%9d%e6%9f%8a%e3%83%bb%e6%ad%a6%e7%94%b0%e5%9c%ad%e5%8f%b8%e3%81%ae%e6%98%ad%e5%92%8c%e6%ad%8c%e8%ac%a1%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc-7/",
+    "date": "2026-11-15",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/261115wako-omote-212x300.jpg"
   },
   {
     "title": "和光市民吹奏楽団 団創設40周年記念 第34回定期演奏会",
