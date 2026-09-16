@@ -213,6 +213,16 @@
     "imageUrl": null
   },
   {
+    "title": "【和光市】何たべる？キッチンカー10店舗が集合！9月12日は和光市駅南口前で「和光市駅前グルメ」開催！",
+    "url": "https://asaka-wako.goguynet.jp/2026/08/29/wako-sci/",
+    "date": "2026-09-12",
+    "categories": [
+      "地域ニュース"
+    ],
+    "source": "号外NET",
+    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/PXL_20260719_064042135.jpg"
+  },
+  {
     "title": "和光市駅前グルメ",
     "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012706.html",
     "date": "2026-09-12",
@@ -224,26 +234,6 @@
     "imageUrl": null
   },
   {
-    "title": "おしゃべり広場 子育てサロン【毎月第3火曜】",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009728.html",
-    "date": "2026-09-15",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "つるし雛教室の開催【募集は終了いたしました】",
-    "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1011518/1013748.html",
-    "date": "2026-09-15",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【分館】令和8年度ひまわりおはなし会",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013317.html",
     "date": "2026-09-16",
@@ -252,16 +242,6 @@
       "子ども・子育て"
     ],
     "source": "和光市公式"
-  },
-  {
-    "title": "【分館】9/16（水）小学生向けひまわりおはなし会",
-    "url": "https://www.wakolib.jp/eventnews/715.html",
-    "date": "2026-09-16",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   },
   {
     "title": "【市議会】全員協議会（令和8年9月17日）",
@@ -353,15 +333,33 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95_202608-e1784084903917-320x227.jpg"
   },
   {
-    "title": "【児童センター】9月21日 （月・祝）室内キッズパークINシアターアリーナ",
-    "url": "https://wapia.jp/situnaiplaypark/",
-    "date": "2026-09-21",
+    "title": "【分館】9/25（金曜日）「あかちゃんと楽しむ絵本とわらべうた in 下新倉児童館」",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1013998.html",
+    "date": "2026-09-25",
     "categories": [
-      "わぴあ",
-      "屋内"
+      "子ども・子育て"
     ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/07/%E4%BC%81%E7%94%BB_%E5%AE%A4%E5%86%85_202608--e1784083327947-320x227.jpg"
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】令和8年度あかちゃんと楽しむ絵本とわらべうた",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013396.html",
+    "date": "2026-09-25",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "R8　コケ玉講座を開催します【募集を終了いたしました】",
+    "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1011518/1013978.html",
+    "date": "2026-09-25",
+    "categories": [
+      "体験（つくる・参加する）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "THE カルテット　昭和歌謡コンサート",
@@ -372,16 +370,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/260925wako1-212x300.jpg"
-  },
-  {
-    "title": "【分館】9/25（金）あかちゃんと楽しむ絵本とわらべうた in 下新倉児童館",
-    "url": "https://www.wakolib.jp/eventnews/626_in.html",
-    "date": "2026-09-25",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   },
   {
     "title": "申込受付終了【分館】9/26（土）第2回子どもの科学「酸とアルカリであそぼう！～おふろのシュワちゃんをつくろう～」",
@@ -681,7 +669,7 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-175-330x247.jpg"
   },
   {
-    "title": "【和光市】市内初の花火大会！10月12日に「秋の花火祭り」音楽にあわせて約600発が上がる！が和光スポーツアイランドで開催決定",
+    "title": "【和光市】市内初の花火大会！10月12日に「秋の花火祭り」音楽にあわせて約600発が上がる！和光スポーツアイランドで開催決定",
     "url": "https://asaka-wako.goguynet.jp/2026/09/16/goguynet/",
     "date": "2026-10-12",
     "categories": [
@@ -705,6 +693,16 @@
     "title": "【本館】ぶっくわーるど「ドカンとゆらゆら　火山と地震の本」10/17（土）",
     "url": "https://www.wakolib.jp/eventnews/1017.html",
     "date": "2026-10-17",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
+    "title": "【本館】第25回 図書館まつり（10/24・25）",
+    "url": "https://www.wakolib.jp/eventnews/24_1.html",
+    "date": "2026-10-24",
     "categories": [
       "図書館"
     ],
