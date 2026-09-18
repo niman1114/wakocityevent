@@ -33,16 +33,6 @@
     "imageUrl": null
   },
   {
-    "title": "【和光市】5月15日～17日、坂下公民館まつりが行われます！",
-    "url": "https://asaka-wako.goguynet.jp/2026/05/07/sakashitacc/",
-    "date": "2026-05-15",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2025/05/PXL_20250525_0211503872-1280x960.jpg"
-  },
-  {
     "title": "【和光市】5月16日、南の越後山中央公園で越後山マルシェが行われます！",
     "url": "https://asaka-wako.goguynet.jp/2026/05/09/echigoyama-2/",
     "date": "2026-05-16",
@@ -222,24 +212,6 @@
     ],
     "source": "和光市（商工イベント）",
     "imageUrl": null
-  },
-  {
-    "title": "健康マージャン講座（全12回）",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
-    "date": "2026-09-17",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【本館】令和8年度　図書館の本をスマホでらくらく予約Day",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013705.html",
-    "date": "2026-09-17",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
   },
   {
     "title": "【本館】令和8年度あかちゃんと楽しむ絵本とわらべうた",
@@ -680,16 +652,6 @@
     "imageUrl": null
   },
   {
-    "title": "【分館】開館10周年記念イベント（10月23日～11月29日）",
-    "url": "https://www.wakolib.jp/eventnews/bunkan10th.html",
-    "date": "2026-10-23",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
-  },
-  {
     "title": "【本館】第25回 図書館まつり（10/24・25）",
     "url": "https://www.wakolib.jp/eventnews/24_1.html",
     "date": "2026-10-24",
@@ -851,6 +813,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/26.11.30_和光公演_B2-1-213x300.jpg"
+  },
+  {
+    "title": "細川たかし・長山洋子 ～ふたりのビッグショー～",
+    "url": "https://www.sunazalea.or.jp/event/20261207-%e7%b4%b0%e5%b7%9d%e3%81%9f%e3%81%8b%e3%81%97%e3%83%bb%e9%95%b7%e5%b1%b1%e6%b4%8b%e5%ad%90-%ef%bd%9e%e3%81%b5%e3%81%9f%e3%82%8a%e3%81%ae%e3%83%93%e3%83%83%e3%82%b0%e3%82%b7%e3%83%a7%e3%83%bc%ef%bd%9e/",
+    "date": "2026-12-07",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/12/チラシ横1000-夢グループ-212x300.jpg"
   },
   {
     "title": "クリスマスこどもフェス",
