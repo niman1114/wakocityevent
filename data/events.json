@@ -336,17 +336,6 @@
     "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/33279301_s.jpg"
   },
   {
-    "title": "9月27日(日) 第4回和光こどもまつり開催",
-    "url": "https://wapia.jp/4thwakokodomomaturi/",
-    "date": "2026-09-27",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E5%92%8C%E5%85%89%E3%81%93%E3%81%A9%E3%82%82%E3%81%BE%E3%81%A4%E3%82%8A-320x227.png"
-  },
-  {
     "title": "【本館】9月のブックスタート",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013754.html",
     "date": "2026-09-28",
@@ -643,6 +632,17 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/09/35127685_s.jpg"
   },
   {
+    "title": "2026年10月12日（月・祝）わこうスポーツ祭り",
+    "url": "https://wapia.jp/10-13%ef%bc%88%e6%9c%88%e3%83%bb%e7%a5%9d%ef%bc%89%e3%82%8f%e3%81%93%e3%81%86%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e7%a5%ad%e3%82%8a/",
+    "date": "2026-10-12",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E3%82%8F%E3%81%93%E3%81%86%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A5%AD%E3%82%8A_%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
+  },
+  {
     "title": "【本館】ぶっくわーるど「ドカンとゆらゆら　火山と地震の本」10/17（土）",
     "url": "https://www.wakolib.jp/eventnews/1017.html",
     "date": "2026-10-17",
@@ -794,7 +794,7 @@
       "屋外"
     ],
     "source": "和光樹林公園",
-    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/c478b1a6dedb96603a486610161ab963-38-330x222.jpg"
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-179-330x222.jpg"
   },
   {
     "title": "和光市民吹奏楽団 団創設40周年記念 第34回定期演奏会",
