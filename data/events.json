@@ -113,16 +113,6 @@
     "imageUrl": null
   },
   {
-    "title": "埼玉県より「人材戦略アドバイザーによる個別相談」のご案内",
-    "url": "https://wako-sci.or.jp/archives/268763",
-    "date": "2026/09/03",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
-  },
-  {
     "title": "「シニア世代対象就職面接会」参加企業募集のお知らせ",
     "url": "https://wako-sci.or.jp/archives/268775",
     "date": "2026/09/07",
@@ -225,26 +215,6 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/c478b1a6dedb96603a486610161ab963-34-330x224.jpg"
   },
   {
-    "title": "台風の影響による悪天候について 9月20日（日）・9月21日（月・祝）",
-    "url": "https://wapia.jp/taifuu/",
-    "date": "2026-09-20",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/09/%E3%82%B1%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF-e1788584600751-320x227.jpg"
-  },
-  {
-    "title": "【分館】9/25（金曜日）「あかちゃんと楽しむ絵本とわらべうた in 下新倉児童館」",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1013998.html",
-    "date": "2026-09-25",
-    "categories": [
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【分館】令和8年度あかちゃんと楽しむ絵本とわらべうた",
     "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013396.html",
     "date": "2026-09-25",
@@ -275,7 +245,17 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/260925wako1-212x300.jpg"
   },
   {
-    "title": "白子川わくわく体験ツアー",
+    "title": "市民公開プロ講座を開催します！",
+    "url": "https://wako-sci.or.jp/archives/268727",
+    "date": "2026/09/25",
+    "categories": [
+      "商工会"
+    ],
+    "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "白子川わくわく体験ツアー（！9月26日は中止・27日へ延期となりました！）",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1012293.html",
     "date": "2026-09-26",
     "categories": [
@@ -334,6 +314,17 @@
     ],
     "source": "号外NET",
     "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/33279301_s.jpg"
+  },
+  {
+    "title": "9月27日(日) 第4回和光こどもまつり開催",
+    "url": "https://wapia.jp/4thwakokodomomaturi/",
+    "date": "2026-09-27",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E5%92%8C%E5%85%89%E3%81%93%E3%81%A9%E3%82%82%E3%81%BE%E3%81%A4%E3%82%8A-320x227.png"
   },
   {
     "title": "【本館】9月のブックスタート",
@@ -448,6 +439,15 @@
     "source": "和光市公式"
   },
   {
+    "title": "【本館】世界おはなしめぐり（令和8年10月3日）",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1014085.html",
+    "date": "2026-10-03",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "令和8年度白子囃子体験講座",
     "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013981.html",
     "date": "2026-10-03",
@@ -467,16 +467,6 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/cbf5b9f60da99bf791c0aa12a770f429-98-330x250.jpg"
-  },
-  {
-    "title": "【本館】10/3（土）世界おはなしめぐり",
-    "url": "https://www.wakolib.jp/eventnews/516.html",
-    "date": "2026-10-03",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   },
   {
     "title": "サンアゼリアPresents T.T彩たま試合前ミニコンサート",
@@ -506,7 +496,7 @@
       "講座・教室（学ぶ・聞く）",
       "子ども・子育て",
       "健康・福祉・スポーツ",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -663,6 +653,16 @@
     "imageUrl": null
   },
   {
+    "title": "【分館】開館10周年記念イベント（10月23日～11月29日）",
+    "url": "https://www.wakolib.jp/eventnews/bunkan10th.html",
+    "date": "2026-10-23",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
     "title": "【本館】第25回 図書館まつり（10/24・25）",
     "url": "https://www.wakolib.jp/eventnews/24_1.html",
     "date": "2026-10-24",
@@ -769,7 +769,7 @@
       "講座・教室（学ぶ・聞く）",
       "子ども・子育て",
       "健康・福祉・スポーツ",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -780,6 +780,16 @@
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "LEDスカイランタン申込",
+    "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1013019/1011223/1012917/1014037.html",
+    "date": "2026-11-08",
+    "categories": [
+      "祭り・催し",
+      "事前申込必要"
     ],
     "source": "和光市公式"
   },
