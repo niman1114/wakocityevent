@@ -215,44 +215,6 @@
     "imageUrl": null
   },
   {
-    "title": "健康マージャン講座（全12回）",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
-    "date": "2026-10-01",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "ヘルスアップ相談",
-    "url": "https://www.city.wako.lg.jp/kenko/1004192/1009478/1004637/1010168/1009570.html",
-    "date": "2026-10-01",
-    "categories": [
-      "相談",
-      "健康・福祉・スポーツ"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【本館】あかちゃんタイム",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1011080.html",
-    "date": "2026-10-01",
-    "categories": [
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "わこう歌声ランド",
-    "url": "https://www.sunazalea.or.jp/event/20261001-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
-    "date": "2026-10-01",
-    "categories": [
-      "小ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
-  },
-  {
     "title": "ハッピーハロウィン！バスボムづくり",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013989.html",
     "date": "2026-10-03",
@@ -346,6 +308,15 @@
     "source": "和光市公式"
   },
   {
+    "title": "【市議会】議会運営委員会（令和8年10月7日）",
+    "url": "https://www.city.wako.lg.jp/shisei/1006222/1006223/1013098.html",
+    "date": "2026-10-07",
+    "categories": [
+      "その他"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "健康マージャン講座（全12回）",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
     "date": "2026-10-08",
@@ -423,6 +394,16 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-174-330x249.jpg"
+  },
+  {
+    "title": "【分館】10/10（土）絵本とおはなしの会",
+    "url": "https://www.wakolib.jp/eventnews/912.html",
+    "date": "2026-10-10",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   },
   {
     "title": "和光市民オーケストラ第38回定期演奏会",
@@ -549,15 +530,25 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/1028チラシ表面②横1000-217x300.jpg"
   },
   {
-    "title": "【児童センター】あそびサークル ～ハロウィン製作～ 10月28日（水）",
-    "url": "https://wapia.jp/asobicircle/",
-    "date": "2026-10-28",
+    "title": "【児童センター】~親子向け野球体験教室~ 10月31日(土)",
+    "url": "https://wapia.jp/261031lionsoyako/",
+    "date": "2026-10-31",
     "categories": [
       "わぴあ",
       "屋内"
     ],
     "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202610-e1789371133803-320x227.jpg"
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/261031-%E8%A6%AA%E5%AD%90%E9%87%8E%E7%90%83%E4%BD%93%E9%A8%93%E6%95%99%E5%AE%A4%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
+  },
+  {
+    "title": "わこう歌声ランド",
+    "url": "https://www.sunazalea.or.jp/event/20261102-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
+    "date": "2026-11-02",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
   },
   {
     "title": "犬の飼い方しつけ教室を開催します！【申込は10/12（月曜）から】",
@@ -626,6 +617,20 @@
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "消費生活展",
+    "url": "https://www.city.wako.lg.jp/kurashi/1003248/1009444/1012853.html",
+    "date": "2026-11-08",
+    "categories": [
+      "祭り・催し",
+      "相談",
+      "講座・教室（学ぶ・聞く）",
+      "観賞・コンサート（見る・聴く）",
+      "体験（つくる・参加する）",
+      "子ども・子育て"
     ],
     "source": "和光市公式"
   },
