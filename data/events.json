@@ -235,36 +235,6 @@
     "imageUrl": null
   },
   {
-    "title": "サンアゼリアPresents T.T彩たま試合前ミニコンサート",
-    "url": "https://www.sunazalea.or.jp/event/20261004-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2presents-t-t%e5%bd%a9%e3%81%9f%e3%81%be%e8%a9%a6%e5%90%88%e5%89%8d%e3%83%9f%e3%83%8b%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88/",
-    "date": "2026-10-04",
-    "categories": [
-      "大ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/チラシ表_試合前演奏2026-214x300.jpg"
-  },
-  {
-    "title": "Nojima T.League2026-2027 シーズン　T.T彩たまホームマッチ",
-    "url": "https://www.sunazalea.or.jp/event/20261004-nojima-t-league2026-2027-%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%b3%e3%80%80t-t%e5%bd%a9%e3%81%9f%e3%81%be%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81/",
-    "date": "2026-10-04",
-    "categories": [
-      "大ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/【T.T彩たま】SUNAZALEA-7.8.9月号掲載用ビジュアル-212x300.jpg"
-  },
-  {
-    "title": "【本館】10月のブックスタート",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1014100.html",
-    "date": "2026-10-05",
-    "categories": [
-      "子ども・子育て",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "令和8年度ヘルスサポーター養成講座　受講者受付中！",
     "url": "https://www.city.wako.lg.jp/kenko/1004192/1010167/1004639.html",
     "date": "2026-10-06",
@@ -329,7 +299,7 @@
     "date": "2026-10-09",
     "categories": [
       "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -458,17 +428,6 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2026/07/%E4%BC%81%E7%94%BB_%E5%AE%A4%E5%86%85_202608--e1784083327947-320x227.jpg"
   },
   {
-    "title": "2026年10月12日（月・祝）わこうスポーツ祭り",
-    "url": "https://wapia.jp/10-13%ef%bc%88%e6%9c%88%e3%83%bb%e7%a5%9d%ef%bc%89%e3%82%8f%e3%81%93%e3%81%86%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e7%a5%ad%e3%82%8a/",
-    "date": "2026-10-12",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E3%82%8F%E3%81%93%E3%81%86%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E7%A5%AD%E3%82%8A_%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
-  },
-  {
     "title": "若返り学級",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009730.html",
     "date": "2026-10-13",
@@ -485,6 +444,45 @@
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【児童センター】10月14日（水）すまいる工房がパンの販売をします！",
+    "url": "https://wapia.jp/smilekobo/",
+    "date": "2026-10-14",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
+  },
+  {
+    "title": "健康マージャン講座（全12回）",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
+    "date": "2026-10-15",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】令和8年度　図書館の本をスマホでらくらく予約Day",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013705.html",
+    "date": "2026-10-15",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】令和8年度ブックスタート",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013547.html",
+    "date": "2026-10-15",
+    "categories": [
+      "子ども・子育て",
+      "事前申込必要"
     ],
     "source": "和光市公式"
   },
@@ -507,6 +505,17 @@
     ],
     "source": "和光市図書館",
     "imageUrl": null
+  },
+  {
+    "title": "【ぼうけん広場】10月23日（金） ぷちプレーパーク",
+    "url": "https://wapia.jp/playpark/",
+    "date": "2026-10-23",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
   },
   {
     "title": "【本館】第25回 図書館まつり（10/24・25）",
@@ -558,6 +567,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/1028チラシ表面②横1000-217x300.jpg"
+  },
+  {
+    "title": "【児童センター】あそびサークル ～ハロウィン製作～ 10月28日（水）",
+    "url": "https://wapia.jp/asobicircle/",
+    "date": "2026-10-28",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202610-e1789371133803-320x227.jpg"
   },
   {
     "title": "【児童センター】~親子向け野球体験教室~ 10月31日(土)",
@@ -665,12 +685,12 @@
     "source": "和光市公式"
   },
   {
-    "title": "LEDスカイランタン申込",
+    "title": "LEDスカイランタン申込（申込上限に達しました）",
     "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1013019/1011223/1012917/1014037.html",
     "date": "2026-11-08",
     "categories": [
       "祭り・催し",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -694,6 +714,17 @@
       "事前申込必要"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【児童センター】ママサークル 11月10日（火） ～ヨガ～",
+    "url": "https://wapia.jp/mamasakuru/",
+    "date": "2026-11-10",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-4-320x227.jpeg"
   },
   {
     "title": "江上兄弟と細貝柊・武田圭司の昭和歌謡コンサート",
