@@ -185,7 +185,7 @@
     "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/33483901_s.jpg"
   },
   {
-    "title": "【埼玉県】令和8年度埼玉県食品表示制度事業者研修会開催のお知らせ",
+    "title": "【埼玉県】令和8年度埼玉県食品表示制度事業者研修会開催",
     "url": "https://wako-sci.or.jp/archives/268840",
     "date": "2026/09/28",
     "categories": [
@@ -195,7 +195,7 @@
     "imageUrl": null
   },
   {
-    "title": "【埼玉県】中東情勢に伴う価格高騰・供給不足緊急支援事業（中小企業）補助金（第１期）のご案内",
+    "title": "【埼玉県】中東情勢 価格高騰・供給不足緊急支援補助金",
     "url": "https://wako-sci.or.jp/archives/268838",
     "date": "2026/09/28",
     "categories": [
@@ -215,7 +215,7 @@
     "imageUrl": null
   },
   {
-    "title": "【中小企業庁】「事業承継・M&A補助金」（第１６次公募）および公募説明会のご案内",
+    "title": "【中小企業庁】「事業承継・M&A補助金」公募説明会のご案内",
     "url": "https://wako-sci.or.jp/archives/268844",
     "date": "2026/10/02",
     "categories": [
@@ -233,28 +233,6 @@
     ],
     "source": "和光市図書館",
     "imageUrl": null
-  },
-  {
-    "title": "令和8年度ヘルスサポーター養成講座　受講者受付中！",
-    "url": "https://www.city.wako.lg.jp/kenko/1004192/1010167/1004639.html",
-    "date": "2026-10-06",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て",
-      "健康・福祉・スポーツ",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "つるし雛教室の開催【募集は終了いたしました】",
-    "url": "https://www.city.wako.lg.jp/kurashi/shimin-katsudo/1011518/1013748.html",
-    "date": "2026-10-06",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
   },
   {
     "title": "【市議会】議会運営委員会（令和8年10月7日）",
@@ -483,6 +461,16 @@
     "categories": [
       "子ども・子育て",
       "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】令和8年度あかちゃんと楽しむ絵本とわらべうた",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013427.html",
+    "date": "2026-10-16",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
     ],
     "source": "和光市公式"
   },
@@ -899,6 +887,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/12/大ホールで弾いてみよう-ol-212x300.jpg"
+  },
+  {
+    "title": "サンアゼリア吹奏楽フェスティバル　第14回ニューイヤーコンサートin和光",
+    "url": "https://www.sunazalea.or.jp/event/20270117-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e5%90%b9%e5%a5%8f%e6%a5%bd%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab%e3%80%80%e7%ac%ac14%e5%9b%9e%e3%83%8b%e3%83%a5%e3%83%bc/",
+    "date": "2027-01-17",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/NYC0826_cropped_page-0001-横1000-1-300x210.jpg"
   },
   {
     "title": "【分館】令和8年度英語おはなし会 Peek'n See!　※一部変更になりました（7月19日更新）",
