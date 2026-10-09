@@ -235,15 +235,6 @@
     "imageUrl": null
   },
   {
-    "title": "健康マージャン講座（全12回）",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
-    "date": "2026-10-08",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "第24回北足立郡市町人権フェスティバルを開催します",
     "url": "https://www.city.wako.lg.jp/kurashi/jinken/1005363/1005366/1005368.html",
     "date": "2026-10-09",
@@ -469,6 +460,36 @@
     "title": "【本館】ぶっくわーるど「ドカンとゆらゆら　火山と地震の本」10/17（土）",
     "url": "https://www.wakolib.jp/eventnews/1017.html",
     "date": "2026-10-17",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
+    "title": "大菊苗無料配布・菊の育て方講習会",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1004937.html",
+    "date": "2026-10-18",
+    "categories": [
+      "祭り・催し",
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "こども卓球教室",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009729.html",
+    "date": "2026-10-18",
+    "categories": [
+      "子ども・子育て",
+      "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】10/21（水）小学生向けひまわりおはなし会",
+    "url": "https://www.wakolib.jp/eventnews/916.html",
+    "date": "2026-10-21",
     "categories": [
       "図書館"
     ],
