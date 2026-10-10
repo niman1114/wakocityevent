@@ -33,16 +33,6 @@
     "imageUrl": null
   },
   {
-    "title": "【和光市】5月30日、和光市駅南口で775MARKET in WAKOが行われます！",
-    "url": "https://asaka-wako.goguynet.jp/2026/05/17/775market-in-wako/",
-    "date": "2026-05-30",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/05/IMG_6965.jpeg"
-  },
-  {
     "title": "【朝霞市・和光市】6月13日、14日にりっくんランドにて、自衛隊車両体験試乗が行われます",
     "url": "https://asaka-wako.goguynet.jp/2026/05/26/jgsdfpic/",
     "date": "2026-06-13",
@@ -81,16 +71,6 @@
     ],
     "source": "号外NET",
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/07/IMG_1694-1.jpg"
-  },
-  {
-    "title": "【埼玉労働局】令和８年１０月１日より埼玉県最低賃金が改正",
-    "url": "https://wako-sci.or.jp/archives/268785",
-    "date": "2026/09/10",
-    "categories": [
-      "商工会"
-    ],
-    "source": "和光市商工会",
-    "imageUrl": null
   },
   {
     "title": "【全国連】EC 活用支援「キックオフセミナー」配信のご案内",
@@ -235,23 +215,14 @@
     "imageUrl": null
   },
   {
-    "title": "第24回北足立郡市町人権フェスティバルを開催します",
-    "url": "https://www.city.wako.lg.jp/kurashi/jinken/1005363/1005366/1005368.html",
-    "date": "2026-10-09",
+    "title": "10/18「わこう つながる駅前マルシェ」開催！",
+    "url": "https://wako-sci.or.jp/archives/268852",
+    "date": "2026/10/09",
     "categories": [
-      "祭り・催し"
+      "商工会"
     ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "和光市民大学2026/特別講座～AIと共に生きる世代のSNS・ネットのリアル～",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1011164/1013964.html",
-    "date": "2026-10-09",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
+    "source": "和光市商工会",
+    "imageUrl": null
   },
   {
     "title": "将棋のつどい",
@@ -398,6 +369,15 @@
     "source": "和光市公式"
   },
   {
+    "title": "【市議会】議会運営委員会（令和8年10月14日）",
+    "url": "https://www.city.wako.lg.jp/shisei/1006222/1006223/1013098.html",
+    "date": "2026-10-14",
+    "categories": [
+      "その他"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "【児童センター】10月14日（水）すまいる工房がパンの販売をします！",
     "url": "https://wapia.jp/smilekobo/",
     "date": "2026-10-14",
@@ -483,6 +463,26 @@
     "categories": [
       "子ども・子育て",
       "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】10月のブックスタート",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1014100.html",
+    "date": "2026-10-19",
+    "categories": [
+      "子ども・子育て",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "和光市民大学2026/特別講座～AIと共に生きる世代のSNS・ネットのリアル～",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1011164/1013964.html",
+    "date": "2026-10-19",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "募集終了"
     ],
     "source": "和光市公式"
   },
