@@ -225,36 +225,6 @@
     "imageUrl": null
   },
   {
-    "title": "将棋のつどい",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009731.html",
-    "date": "2026-10-10",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【分館】令和8年度絵本とおはなしの会",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1013258.html",
-    "date": "2026-10-10",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "令和8年度白子囃子体験講座",
-    "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013981.html",
-    "date": "2026-10-10",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "パークヨガ　2026年秋",
     "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026090413134713017.html",
     "date": "2026-10-10",
@@ -264,16 +234,6 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-174-330x249.jpg"
-  },
-  {
-    "title": "【分館】10/10（土）絵本とおはなしの会",
-    "url": "https://www.wakolib.jp/eventnews/912.html",
-    "date": "2026-10-10",
-    "categories": [
-      "図書館"
-    ],
-    "source": "和光市図書館",
-    "imageUrl": null
   },
   {
     "title": "BOSAIフェア2026in和光",
@@ -483,6 +443,16 @@
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "おしゃべり広場 子育てサロン【毎月第3火曜】",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009728.html",
+    "date": "2026-10-20",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て"
     ],
     "source": "和光市公式"
   },
