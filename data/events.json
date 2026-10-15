@@ -1,16 +1,5 @@
 [
   {
-    "title": "女性経営者応援！わこう駅前マルシェ",
-    "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012857.html",
-    "date": "2025-10-18",
-    "categories": [
-      "祭り・催し",
-      "駅前"
-    ],
-    "source": "和光市（商工イベント）",
-    "imageUrl": null
-  },
-  {
     "title": "WAKOクリスマスフェスティバル2025",
     "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1013025.html",
     "date": "2025-12-13",
@@ -325,6 +314,16 @@
     "source": "和光市公式"
   },
   {
+    "title": "わこうつながる駅前マルシェ",
+    "url": "https://www.city.wako.lg.jp/jigyosha/1012711/1012741/1012857.html",
+    "date": "2026-10-18",
+    "categories": [
+      "祭り・催し",
+      "体験（つくる・参加する）"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "【和光市】総勢12店舗が出店する「わこう つながる駅前マルシェ」が10月18日に開催！ミニステージ情報も紹介",
     "url": "https://asaka-wako.goguynet.jp/2026/10/15/wakoushi/",
     "date": "2026-10-18",
@@ -394,6 +393,19 @@
     "source": "和光市公式"
   },
   {
+    "title": "中央公民館まつり",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1004890.html",
+    "date": "2026-10-23",
+    "categories": [
+      "祭り・催し",
+      "観賞・コンサート（見る・聴く）",
+      "体験（つくる・参加する）",
+      "健康・福祉・スポーツ",
+      "開催期間"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "【分館】開館10周年記念イベント（10月23日～11月29日）",
     "url": "https://www.wakolib.jp/eventnews/bunkan10th.html",
     "date": "2026-10-23",
@@ -415,14 +427,37 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
   },
   {
-    "title": "【本館】第25回 図書館まつり（10/24・25）",
-    "url": "https://www.wakolib.jp/eventnews/24_1.html",
+    "title": "中央公民館まつり",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1004890.html",
     "date": "2026-10-24",
     "categories": [
-      "図書館"
+      "祭り・催し",
+      "観賞・コンサート（見る・聴く）",
+      "体験（つくる・参加する）",
+      "健康・福祉・スポーツ",
+      "開催期間"
     ],
-    "source": "和光市図書館",
-    "imageUrl": null
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】第25回　図書館まつり（令和8年10月24日・25日）",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1014074.html",
+    "date": "2026-10-24",
+    "categories": [
+      "祭り・催し",
+      "一部事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "令和8年度白子囃子体験講座",
+    "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013981.html",
+    "date": "2026-10-24",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "募集終了"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "マチナカコンサートin和光市中央公民館",
