@@ -236,16 +236,6 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
-    "title": "【本館】令和8年度あかちゃんと楽しむ絵本とわらべうた",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013427.html",
-    "date": "2026-10-16",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "令和8年度白子囃子体験講座",
     "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013981.html",
     "date": "2026-10-17",
@@ -503,6 +493,28 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7202610-scaled-320x227.jpg"
+  },
+  {
+    "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
+    "url": "https://www.city.wako.lg.jp/kosodate/1000009/1009700/1003721/1003725.html",
+    "date": "2026-10-26",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "令和8年度ヘルスサポーター養成講座　受講者受付中！",
+    "url": "https://www.city.wako.lg.jp/kenko/1004192/1010167/1004639.html",
+    "date": "2026-10-26",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "子ども・子育て",
+      "健康・福祉・スポーツ",
+      "募集終了"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "SUNAZALEA SUPPORT PROGRAM　SUNAZALEAアクト企画vol.8 心うるおす４つの声と楽器のファンタジー 音大生が贈る親子で楽しむ歌の世界！",
