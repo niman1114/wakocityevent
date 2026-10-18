@@ -236,16 +236,6 @@
     "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
-    "title": "令和8年度白子囃子体験講座",
-    "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013981.html",
-    "date": "2026-10-17",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【本館】ぶっくわーるど「ドカンとゆらゆら　火山と地震の本」10/17（土）",
     "url": "https://www.wakolib.jp/eventnews/1017.html",
     "date": "2026-10-17",
@@ -484,17 +474,6 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/10/和光公演チラシ-1-212x300.jpg"
   },
   {
-    "title": "10月25日（日）わぴあmamaマルシェ 子ども服＆絵本のリサイクル会",
-    "url": "https://wapia.jp/10%e6%9c%8825%e6%97%a5%ef%bc%88%e6%97%a5%ef%bc%89%e3%82%8f%e3%81%b4%e3%81%82mama%e3%83%9e%e3%83%ab%e3%82%b7%e3%82%a7%e3%80%80%e5%ad%90%e3%81%a9%e3%82%82%e6%9c%8d%ef%bc%86%e7%b5%b5%e6%9c%ac%e3%81%ae/",
-    "date": "2026-10-25",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E3%83%9E%E3%83%AB%E3%82%B7%E3%82%A7202610-scaled-320x227.jpg"
-  },
-  {
     "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
     "url": "https://www.city.wako.lg.jp/kosodate/1000009/1009700/1003721/1003725.html",
     "date": "2026-10-26",
@@ -513,6 +492,16 @@
       "子ども・子育て",
       "健康・福祉・スポーツ",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
+    "url": "https://www.city.wako.lg.jp/kosodate/1000009/1009700/1003721/1003725.html",
+    "date": "2026-10-27",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "事前申込必要"
     ],
     "source": "和光市公式"
   },
@@ -684,17 +673,6 @@
     "source": "和光市公式"
   },
   {
-    "title": "【児童センター】ママサークル 11月10日（火） ～ヨガ～",
-    "url": "https://wapia.jp/mamasakuru/",
-    "date": "2026-11-10",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-4-320x227.jpeg"
-  },
-  {
     "title": "江上兄弟と細貝柊・武田圭司の昭和歌謡コンサート",
     "url": "https://www.sunazalea.or.jp/event/20261115-%e6%b1%9f%e4%b8%8a%e5%85%84%e5%bc%9f%e3%81%a8%e7%b4%b0%e8%b2%9d%e6%9f%8a%e3%83%bb%e6%ad%a6%e7%94%b0%e5%9c%ad%e5%8f%b8%e3%81%ae%e6%98%ad%e5%92%8c%e6%ad%8c%e8%ac%a1%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc-7/",
     "date": "2026-11-15",
@@ -829,7 +807,7 @@
     "source": "和光市公式"
   },
   {
-    "title": "和太鼓体験教室(全15回)",
+    "title": "和太鼓体験教室(全9回)　全15回から全9回へ変更となりました",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013655.html",
     "date": "2026-12-05",
     "categories": [
