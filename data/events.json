@@ -225,17 +225,6 @@
     "imageUrl": null
   },
   {
-    "title": "【児童センター】10月14日（水）すまいる工房がパンの販売をします！",
-    "url": "https://wapia.jp/smilekobo/",
-    "date": "2026-10-14",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
-  },
-  {
     "title": "【本館】ぶっくわーるど「ドカンとゆらゆら　火山と地震の本」10/17（土）",
     "url": "https://www.wakolib.jp/eventnews/1017.html",
     "date": "2026-10-17",
@@ -265,15 +254,6 @@
     ],
     "source": "和光市（商工イベント）",
     "imageUrl": null
-  },
-  {
-    "title": "【市議会】議会運営委員会（令和8年10月20日）",
-    "url": "https://www.city.wako.lg.jp/shisei/1006222/1006223/1013098.html",
-    "date": "2026-10-20",
-    "categories": [
-      "その他"
-    ],
-    "source": "和光市公式"
   },
   {
     "title": "おしゃべり広場 子育てサロン【毎月第3火曜】",
@@ -721,6 +701,17 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-179-330x222.jpg"
   },
   {
+    "title": "11月15日（日）ご縁のひろば",
+    "url": "https://wapia.jp/11%e6%9c%8815%e6%97%a5%ef%bc%88%e6%97%a5%ef%bc%89%e3%81%94%e7%b8%81%e3%81%ae%e3%81%b2%e3%82%8d%e3%81%b0/",
+    "date": "2026-11-15",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E3%81%94%E7%B8%81%E3%81%AE%E3%81%B2%E3%82%8D%E3%81%B011%E6%9C%88%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC_page-0001-scaled-320x227.jpg"
+  },
+  {
     "title": "【児童センター】 11月16日（月）キッズパークdeママリフレッシュ",
     "url": "https://wapia.jp/mamarihu/",
     "date": "2026-11-16",
@@ -884,6 +875,17 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "こもれびプレーパーク",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026102013183613201.html",
+    "date": "2026-12-09",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-181-330x237.jpg"
   },
   {
     "title": "レトロ発見！16mmフィルムの世界  サンアゼリアこども映画観賞会",
