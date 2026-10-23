@@ -83,16 +83,6 @@
     "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/33483901_s.jpg"
   },
   {
-    "title": "【和光市】9月27日放送！日テレ「メシドラ」に横浜流星さんが登場！和光市でグルメドライブ旅",
-    "url": "https://asaka-wako.goguynet.jp/2026/09/21/meshidora-2/",
-    "date": "2026-09-27",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/33279301_s.jpg"
-  },
-  {
     "title": "【埼玉県】令和8年度埼玉県食品表示制度事業者研修会開催",
     "url": "https://wako-sci.or.jp/archives/268840",
     "date": "2026/09/28",
@@ -130,6 +120,16 @@
       "商工会"
     ],
     "source": "和光市商工会",
+    "imageUrl": null
+  },
+  {
+    "title": "【本館】10/3（土）世界おはなしめぐり",
+    "url": "https://www.wakolib.jp/eventnews/516.html",
+    "date": "2026-10-03",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
     "imageUrl": null
   },
   {
@@ -183,6 +183,16 @@
     "imageUrl": null
   },
   {
+    "title": "【本館】ぶっくわーるど「ドカンとゆらゆら　火山と地震の本」10/17（土）",
+    "url": "https://www.wakolib.jp/eventnews/1017.html",
+    "date": "2026-10-17",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
     "title": "【和光市】総勢12店舗が出店する「わこう つながる駅前マルシェ」が10月18日に開催！ミニステージ情報も紹介",
     "url": "https://asaka-wako.goguynet.jp/2026/10/15/wakoushi/",
     "date": "2026-10-18",
@@ -214,15 +224,6 @@
     "imageUrl": null
   },
   {
-    "title": "健康マージャン講座（全12回）",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
-    "date": "2026-10-22",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "中央公民館まつり",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1004890.html",
     "date": "2026-10-23",
@@ -234,6 +235,16 @@
       "開催期間"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【分館】開館10周年記念イベント（10月23日～11月29日）",
+    "url": "https://www.wakolib.jp/eventnews/bunkan10th.html",
+    "date": "2026-10-23",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   },
   {
     "title": "【ぼうけん広場】10月23日（金） ぷちプレーパーク",
@@ -661,6 +672,16 @@
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/近藤嘉宏2026ショパン案2-212x300.jpg"
   },
   {
+    "title": "【本館】11/29（日）「大人のための朗読劇場Part32」『星新一　シュールな世界　第7弾』",
+    "url": "https://www.wakolib.jp/eventnews/628part316.html",
+    "date": "2026-11-29",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
+  },
+  {
     "title": "よしもとお笑いライブ in 和光 2026  ～秋の大爆笑ネタまつり～",
     "url": "https://www.sunazalea.or.jp/event/20261130-%e3%82%88%e3%81%97%e3%82%82%e3%81%a8%e3%81%8a%e7%ac%91%e3%81%84%e3%83%a9%e3%82%a4%e3%83%96-in-%e5%92%8c%e5%85%89-2026-%ef%bd%9e%e7%a7%8b%e3%81%ae%e5%a4%a7%e7%88%86%e7%ac%91%e3%83%8d%e3%82%bf%e3%81%be/",
     "date": "2026-11-30",
@@ -771,7 +792,7 @@
       "展示室"
     ],
     "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/12/16mmフィルムの世界-こども映画観賞会-1-212x300.png"
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/12/16mmフィルムの世界-こども映画観賞会--212x300.png"
   },
   {
     "title": "クリスマスこどもフェス",
@@ -803,5 +824,15 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/NYC0826_cropped_page-0001-横1000-1-300x210.jpg"
+  },
+  {
+    "title": "【分館】令和8年度英語おはなし会 Peek'n See!　※一部変更になりました（7月19日更新）",
+    "url": "https://www.wakolib.jp/eventnews/7_peekn_see.html",
+    "date": "2027-07-19",
+    "categories": [
+      "図書館"
+    ],
+    "source": "和光市図書館",
+    "imageUrl": null
   }
 ]
