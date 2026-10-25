@@ -63,6 +63,17 @@
     "imageUrl": null
   },
   {
+    "title": "ワンちゃんのしつけ教室　2026年秋",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026081111202112909.html",
+    "date": "2026-09-20",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/c478b1a6dedb96603a486610161ab963-34-330x224.jpg"
+  },
+  {
     "title": "市民公開プロ講座を開催します！",
     "url": "https://wako-sci.or.jp/archives/268727",
     "date": "2026/09/25",
@@ -131,6 +142,17 @@
     ],
     "source": "和光市商工会",
     "imageUrl": null
+  },
+  {
+    "title": "パークヨガ　2026年秋",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026090413134713017.html",
+    "date": "2026-10-10",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-174-330x249.jpg"
   },
   {
     "title": "【和光市】市内初の花火大会！10月12日に「秋の花火祭り」音楽にあわせて約600発が上がる！和光スポーツアイランドで開催決定",
@@ -213,96 +235,6 @@
     ],
     "source": "わぴあ",
     "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
-  },
-  {
-    "title": "中央公民館まつり",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1004890.html",
-    "date": "2026-10-24",
-    "categories": [
-      "祭り・催し",
-      "観賞・コンサート（見る・聴く）",
-      "体験（つくる・参加する）",
-      "健康・福祉・スポーツ",
-      "開催期間"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "中央公民館（KOMINKAN）まつりで国際交流！～つながる・広がる・和光の輪～",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1012869.html",
-    "date": "2026-10-24",
-    "categories": [
-      "祭り・催し",
-      "講座・教室（学ぶ・聞く）",
-      "観賞・コンサート（見る・聴く）",
-      "体験（つくる・参加する）"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【本館】第25回　図書館まつり（令和8年10月24日・25日）",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1014074.html",
-    "date": "2026-10-24",
-    "categories": [
-      "祭り・催し",
-      "一部事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "令和8年度白子囃子体験講座",
-    "url": "https://www.city.wako.lg.jp/kosodate/rekishi/1005133/1005161/1013721/1013981.html",
-    "date": "2026-10-24",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "中央公民館まつり",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1004890.html",
-    "date": "2026-10-25",
-    "categories": [
-      "祭り・催し",
-      "観賞・コンサート（見る・聴く）",
-      "体験（つくる・参加する）",
-      "健康・福祉・スポーツ",
-      "開催期間"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "中央公民館（KOMINKAN）まつりで国際交流！～つながる・広がる・和光の輪～",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004877/1012869.html",
-    "date": "2026-10-25",
-    "categories": [
-      "祭り・催し",
-      "講座・教室（学ぶ・聞く）",
-      "観賞・コンサート（見る・聴く）",
-      "体験（つくる・参加する）"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "キャンプ体験と牛乳パックで作るホットドックと焼きそばパン教室",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013961.html",
-    "date": "2026-10-25",
-    "categories": [
-      "体験（つくる・参加する）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【本館】第25回　図書館まつり（令和8年10月24日・25日）",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1014074.html",
-    "date": "2026-10-25",
-    "categories": [
-      "祭り・催し",
-      "一部事前申込必要"
-    ],
-    "source": "和光市公式"
   },
   {
     "title": "マチナカコンサートin和光市中央公民館",
@@ -509,6 +441,28 @@
     "source": "和光市公式"
   },
   {
+    "title": "3公園をめぐるキッズチャレンジ",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026101917160813186.html",
+    "date": "2026-11-07",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-180-330x248.jpg"
+  },
+  {
+    "title": "ちょこっとボランティア　コキアの抜き取り",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026102112131013217.html",
+    "date": "2026-11-07",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-182-330x260.jpg"
+  },
+  {
     "title": "消費生活展",
     "url": "https://www.city.wako.lg.jp/kurashi/1003248/1009444/1012853.html",
     "date": "2026-11-08",
@@ -565,6 +519,17 @@
     "source": "和光市公式"
   },
   {
+    "title": "県民の日企画　どんぐりを探せ　～スマホアプリでスタンプラリー～",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026101917170513192.html",
+    "date": "2026-11-14",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/5e4896966c9944fcf00890f4502605bf-44-330x248.jpg"
+  },
+  {
     "title": "江上兄弟と細貝柊・武田圭司の昭和歌謡コンサート",
     "url": "https://www.sunazalea.or.jp/event/20261115-%e6%b1%9f%e4%b8%8a%e5%85%84%e5%bc%9f%e3%81%a8%e7%b4%b0%e8%b2%9d%e6%9f%8a%e3%83%bb%e6%ad%a6%e7%94%b0%e5%9c%ad%e5%8f%b8%e3%81%ae%e6%98%ad%e5%92%8c%e6%ad%8c%e8%ac%a1%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc-7/",
     "date": "2026-11-15",
@@ -573,6 +538,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/09/261115wako-omote-212x300.jpg"
+  },
+  {
+    "title": "リーダーウォークお散歩会",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026092218015113090.html",
+    "date": "2026-11-15",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-179-330x222.jpg"
   },
   {
     "title": "11月15日（日）ご縁のひろば",
@@ -637,6 +613,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/近藤嘉宏2026ショパン案2-212x300.jpg"
+  },
+  {
+    "title": "ドッグラン【2026秋】",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026092213370213112.html",
+    "date": "2026-11-28",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/cbf5b9f60da99bf791c0aa12a770f429-101-330x204.jpg"
   },
   {
     "title": "よしもとお笑いライブ in 和光 2026  ～秋の大爆笑ネタまつり～",
@@ -710,6 +697,16 @@
     "source": "和光市公式"
   },
   {
+    "title": "体整えストレッチ体操教室",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004909/1009733/1013953.html",
+    "date": "2026-12-07",
+    "categories": [
+      "体験（つくる・参加する）",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "細川たかし・長山洋子 ～ふたりのビッグショー～",
     "url": "https://www.sunazalea.or.jp/event/20261207-%e7%b4%b0%e5%b7%9d%e3%81%9f%e3%81%8b%e3%81%97%e3%83%bb%e9%95%b7%e5%b1%b1%e6%b4%8b%e5%ad%90-%ef%bd%9e%e3%81%b5%e3%81%9f%e3%82%8a%e3%81%ae%e3%83%93%e3%83%83%e3%82%b0%e3%82%b7%e3%83%a7%e3%83%bc%ef%bd%9e/",
     "date": "2026-12-07",
@@ -740,6 +737,17 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "こもれびプレーパーク",
+    "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026102013183613201.html",
+    "date": "2026-12-09",
+    "categories": [
+      "公園",
+      "屋外"
+    ],
+    "source": "和光樹林公園",
+    "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-181-330x237.jpg"
   },
   {
     "title": "レトロ発見！16mmフィルムの世界  サンアゼリアこども映画観賞会",
