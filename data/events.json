@@ -74,16 +74,6 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/c478b1a6dedb96603a486610161ab963-34-330x224.jpg"
   },
   {
-    "title": "【和光市】9月27日放送の「メシドラ」で和光市が登場！横浜流星さんと巡ったロケ地まとめ！見逃した方はTVerで無料配信中なのでチェックですよ！",
-    "url": "https://asaka-wako.goguynet.jp/2026/09/28/meshidora-3/",
-    "date": "2026-09-27",
-    "categories": [
-      "地域ニュース"
-    ],
-    "source": "号外NET",
-    "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/07/33483901_s.jpg"
-  },
-  {
     "title": "【埼玉県】令和8年度埼玉県食品表示制度事業者研修会開催",
     "url": "https://wako-sci.or.jp/archives/268840",
     "date": "2026/09/28",
@@ -226,27 +216,6 @@
     "imageUrl": null
   },
   {
-    "title": "消費生活講座",
-    "url": "https://www.city.wako.lg.jp/kurashi/1003248/1009444/1014064.html",
-    "date": "2026-10-28",
-    "categories": [
-      "祭り・催し",
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "SUNAZALEA SUPPORT PROGRAM　SUNAZALEAアクト企画vol.8 心うるおす４つの声と楽器のファンタジー 音大生が贈る親子で楽しむ歌の世界！",
-    "url": "https://www.sunazalea.or.jp/event/20261028-sunazalea-support-program%e3%80%80sunazalea%e3%82%a2%e3%82%af%e3%83%88%e4%bc%81%e7%94%bbvol-8-%e5%bf%83%e3%81%86%e3%82%8b%e3%81%8a%e3%81%99%ef%bc%94%e3%81%a4%e3%81%ae%e5%a3%b0%e3%81%a8%e6%a5%bd/",
-    "date": "2026-10-28",
-    "categories": [
-      "小ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/1028チラシ表面②横1000-217x300.jpg"
-  },
-  {
     "title": "健康マージャン講座（全12回）",
     "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
     "date": "2026-10-29",
@@ -264,6 +233,17 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "【児童センター】~親子向け野球体験教室~ 10月31日(土)",
+    "url": "https://wapia.jp/261031lionsoyako/",
+    "date": "2026-10-31",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/261031-%E8%A6%AA%E5%AD%90%E9%87%8E%E7%90%83%E4%BD%93%E9%A8%93%E6%95%99%E5%AE%A4%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
   },
   {
     "title": "【本館】11月のブックスタート",
@@ -284,6 +264,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
+  },
+  {
+    "title": "【児童センター】11月4日（水）すまいる工房がパンの販売をします！",
+    "url": "https://wapia.jp/smilekobo/",
+    "date": "2026-11-04",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "犬の飼い方しつけ教室を開催します！【申込は10/12（月曜）から】",
@@ -434,6 +425,28 @@
     "source": "和光市公式"
   },
   {
+    "title": "【児童センター】11月11日（水）子連れdeママエクササイズ",
+    "url": "https://wapia.jp/mamaekusa/",
+    "date": "2026-11-11",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+  },
+  {
+    "title": "【児童センター】あそびサークル ～秋をつくろう！～ 11月13日（金）",
+    "url": "https://wapia.jp/asobicircle/",
+    "date": "2026-11-13",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202611-e1793157208944-320x227.jpg"
+  },
+  {
     "title": "県民の日企画　どんぐりを探せ　～スマホアプリでスタンプラリー～",
     "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026101917170513192.html",
     "date": "2026-11-14",
@@ -466,6 +479,28 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-179-330x222.jpg"
   },
   {
+    "title": "11月15日（日）ご縁のひろば",
+    "url": "https://wapia.jp/11%e6%9c%8815%e6%97%a5%ef%bc%88%e6%97%a5%ef%bc%89%e3%81%94%e7%b8%81%e3%81%ae%e3%81%b2%e3%82%8d%e3%81%b0/",
+    "date": "2026-11-15",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E3%81%94%E7%B8%81%E3%81%AE%E3%81%B2%E3%82%8D%E3%81%B011%E6%9C%88%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC_page-0001-scaled-320x227.jpg"
+  },
+  {
+    "title": "【児童センター】 11月16日（月）キッズパークdeママリフレッシュ",
+    "url": "https://wapia.jp/mamarihu/",
+    "date": "2026-11-16",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95_202608-e1784084903917-320x227.jpg"
+  },
+  {
     "title": "和光市民吹奏楽団 団創設40周年記念 第34回定期演奏会",
     "url": "https://www.sunazalea.or.jp/event/20261122-%e5%92%8c%e5%85%89%e5%b8%82%e6%b0%91%e5%90%b9%e5%a5%8f%e6%a5%bd%e5%9b%a3-%e5%9b%a3%e5%89%b5%e8%a8%ad40%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5-%e7%ac%ac34%e5%9b%9e%e5%ae%9a%e6%9c%9f%e6%bc%94%e5%a5%8f/",
     "date": "2026-11-22",
@@ -474,6 +509,17 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/チラシ0817横1000-212x300.jpg"
+  },
+  {
+    "title": "【ぼうけん広場】11月27日（金） ぷちプレーパーク",
+    "url": "https://wapia.jp/playpark/",
+    "date": "2026-11-27",
+    "categories": [
+      "わぴあ",
+      "屋内"
+    ],
+    "source": "わぴあ",
+    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
   },
   {
     "title": "近藤嘉宏 ピアノ・リサイタル The ショパン!!",
