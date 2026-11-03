@@ -226,17 +226,6 @@
     "imageUrl": "https://goguynet.jp/wp-content/uploads/sites/85/2026/10/PXL_20250518_040132994.MP2_.jpg"
   },
   {
-    "title": "【児童センター】~親子向け野球体験教室~ 10月31日(土)",
-    "url": "https://wapia.jp/261031lionsoyako/",
-    "date": "2026-10-31",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/08/261031-%E8%A6%AA%E5%AD%90%E9%87%8E%E7%90%83%E4%BD%93%E9%A8%93%E6%95%99%E5%AE%A4%E3%83%81%E3%83%A9%E3%82%B7-320x227.jpg"
-  },
-  {
     "title": "【和光市】愛犬と一緒に楽しもう！11月1日は和光樹林公園で犬と人 笑顔が繋がるイベントを開催【愛犬と参加できるゲーム大会も！】",
     "url": "https://asaka-wako.goguynet.jp/2026/11/01/shituke/",
     "date": "2026-11-01",
@@ -245,37 +234,6 @@
     ],
     "source": "号外NET",
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/10/IMG_0310-1.jpg"
-  },
-  {
-    "title": "【本館】11月のブックスタート",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1014153.html",
-    "date": "2026-11-02",
-    "categories": [
-      "子ども・子育て",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "わこう歌声ランド",
-    "url": "https://www.sunazalea.or.jp/event/20261102-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
-    "date": "2026-11-02",
-    "categories": [
-      "小ホール"
-    ],
-    "source": "サンアゼリア",
-    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
-  },
-  {
-    "title": "【児童センター】11月4日（水）すまいる工房がパンの販売をします！",
-    "url": "https://wapia.jp/smilekobo/",
-    "date": "2026-11-04",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2025/05/%E3%81%99%E3%81%BE%E3%81%84%E3%82%8B%E5%B7%A5%E6%88%BF-320x227.png"
   },
   {
     "title": "犬の飼い方しつけ教室を開催します！【申込は10/12（月曜）から】",
@@ -414,6 +372,16 @@
     "source": "和光市公式"
   },
   {
+    "title": "若返り学級",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009730.html",
+    "date": "2026-11-10",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "ヘルシーライフスタイル教室（健康教室）",
     "url": "https://www.city.wako.lg.jp/kenko/1004192/1010167/1012180.html",
     "date": "2026-11-10",
@@ -426,26 +394,35 @@
     "source": "和光市公式"
   },
   {
-    "title": "【児童センター】11月11日（水）子連れdeママエクササイズ",
-    "url": "https://wapia.jp/mamaekusa/",
-    "date": "2026-11-11",
+    "title": "和光市民大学2026",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1009683/1014047.html",
+    "date": "2026-11-12",
     "categories": [
-      "わぴあ",
-      "屋内"
+      "講座・教室（学ぶ・聞く）",
+      "募集終了"
     ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/10/Green-and-White-Modern-Travel-Youtube-Thumbnail%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC-320x227.jpeg"
+    "source": "和光市公式"
   },
   {
-    "title": "【児童センター】あそびサークル ～秋をつくろう！～ 11月13日（金）",
-    "url": "https://wapia.jp/asobicircle/",
-    "date": "2026-11-13",
+    "title": "健康マージャン講座（全12回）",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
+    "date": "2026-11-12",
     "categories": [
-      "わぴあ",
-      "屋内"
+      "講座・教室（学ぶ・聞く）"
     ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202611-e1793157208944-320x227.jpg"
+    "source": "和光市公式"
+  },
+  {
+    "title": "健康づくり教室（保育付き・全3回）「はじめてのフラダンス体験講座」",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1011324.html",
+    "date": "2026-11-12",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "体験（つくる・参加する）",
+      "子ども・子育て",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "県民の日企画　どんぐりを探せ　～スマホアプリでスタンプラリー～",
@@ -480,28 +457,6 @@
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/29d3bc99193cb0b837fb8cc53f050ae5-179-330x222.jpg"
   },
   {
-    "title": "11月15日（日）ご縁のひろば",
-    "url": "https://wapia.jp/11%e6%9c%8815%e6%97%a5%ef%bc%88%e6%97%a5%ef%bc%89%e3%81%94%e7%b8%81%e3%81%ae%e3%81%b2%e3%82%8d%e3%81%b0/",
-    "date": "2026-11-15",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E3%81%94%E7%B8%81%E3%81%AE%E3%81%B2%E3%82%8D%E3%81%B011%E6%9C%88%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC_page-0001-scaled-320x227.jpg"
-  },
-  {
-    "title": "【児童センター】 11月16日（月）キッズパークdeママリフレッシュ",
-    "url": "https://wapia.jp/mamarihu/",
-    "date": "2026-11-16",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/06/%E4%BC%81%E7%94%BB_%E3%83%9E%E3%83%9E%E3%83%AA%E3%83%95_202608-e1784084903917-320x227.jpg"
-  },
-  {
     "title": "未来につなぐ　森づくりキッズ",
     "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026103116380713236.html",
     "date": "2026-11-21",
@@ -521,17 +476,6 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/08/チラシ0817横1000-212x300.jpg"
-  },
-  {
-    "title": "【ぼうけん広場】11月27日（金） ぷちプレーパーク",
-    "url": "https://wapia.jp/playpark/",
-    "date": "2026-11-27",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2024/12/image0-320x227.png"
   },
   {
     "title": "近藤嘉宏 ピアノ・リサイタル The ショパン!!",
@@ -586,6 +530,16 @@
       "募集終了"
     ],
     "source": "和光市公式"
+  },
+  {
+    "title": "わこう歌声ランド",
+    "url": "https://www.sunazalea.or.jp/event/20261201-%e3%82%8f%e3%81%93%e3%81%86%e6%ad%8c%e5%a3%b0%e3%83%a9%e3%83%b3%e3%83%89/",
+    "date": "2026-12-01",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/06/WAKO-UTAGOE-LAND_flyerV07_Rev002-1-scaled.jpg"
   },
   {
     "title": "ケーキ作り教室",
@@ -750,6 +704,16 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/12/大ホールで弾いてみよう-ol-212x300.jpg"
+  },
+  {
+    "title": "サンアゼリアBST　消えたメロディーと開演クライシス",
+    "url": "https://www.sunazalea.or.jp/event/20261226-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2bst%e3%80%80%e6%b6%88%e3%81%88%e3%81%9f%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e3%81%a8%e9%96%8b%e6%bc%94%e3%82%af%e3%83%a9%e3%82%a4/",
+    "date": "2026-12-26",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2026/12/消えたメロディーと開演クライシスイメージロゴre2.jpg"
   },
   {
     "title": "【本館】あかちゃんタイム",
