@@ -235,44 +235,6 @@
     "imageUrl": "https://asaka-wako.goguynet.jp/wp-content/uploads/sites/85/2026/10/IMG_0310-1.jpg"
   },
   {
-    "title": "犬の飼い方しつけ教室を開催します！【申込は10/12（月曜）から】",
-    "url": "https://www.city.wako.lg.jp/kurashi/kankyo/1009477/1002971/1011353.html",
-    "date": "2026-11-05",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "募集終了"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
-    "url": "https://www.city.wako.lg.jp/kosodate/1000009/1009700/1003721/1003725.html",
-    "date": "2026-11-05",
-    "categories": [
-      "講座・教室（学ぶ・聞く）",
-      "事前申込必要"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "健康マージャン講座（全12回）",
-    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
-    "date": "2026-11-05",
-    "categories": [
-      "講座・教室（学ぶ・聞く）"
-    ],
-    "source": "和光市公式"
-  },
-  {
-    "title": "【本館】あかちゃんタイム",
-    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1011080.html",
-    "date": "2026-11-05",
-    "categories": [
-      "子ども・子育て"
-    ],
-    "source": "和光市公式"
-  },
-  {
     "title": "【和光市ファミリー・サポート・センター】サポーター養成講座",
     "url": "https://www.city.wako.lg.jp/kosodate/1000009/1009700/1003721/1003725.html",
     "date": "2026-11-06",
@@ -528,6 +490,26 @@
     ],
     "source": "和光樹林公園",
     "imageUrl": "https://www.seibu-green.co.jp/wako-jurin/files/5e4896966c9944fcf00890f4502605bf-44-330x248.jpg"
+  },
+  {
+    "title": "こども卓球教室",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1009729.html",
+    "date": "2026-11-15",
+    "categories": [
+      "子ども・子育て",
+      "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "ヘルスアップ相談",
+    "url": "https://www.city.wako.lg.jp/kenko/1004192/1009478/1004637/1010168/1009570.html",
+    "date": "2026-11-15",
+    "categories": [
+      "相談",
+      "健康・福祉・スポーツ"
+    ],
+    "source": "和光市公式"
   },
   {
     "title": "江上兄弟と細貝柊・武田圭司の昭和歌謡コンサート",
