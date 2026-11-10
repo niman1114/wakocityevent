@@ -327,17 +327,6 @@
     "source": "和光市公式"
   },
   {
-    "title": "【児童センター】あそびサークル ～秋をつくろう！～ 11月13日（金）",
-    "url": "https://wapia.jp/asobicircle/",
-    "date": "2026-11-13",
-    "categories": [
-      "わぴあ",
-      "屋内"
-    ],
-    "source": "わぴあ",
-    "imageUrl": "https://wapia.jp/wp-content/uploads/2026/10/%E4%BC%81%E7%94%BB_%E3%81%82%E3%81%9D%E3%81%B3%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB-202611-e1793157208944-320x227.jpg"
-  },
-  {
     "title": "Canva×AI活用ワークショップ",
     "url": "https://www.city.wako.lg.jp/jigyosha/koyo/1003450/1014132.html",
     "date": "2026-11-14",
@@ -546,6 +535,46 @@
     "source": "和光市公式"
   },
   {
+    "title": "和光市民大学2026",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1009680/1004930/1009683/1014047.html",
+    "date": "2026-11-19",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "健康マージャン講座（全12回）",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1013703.html",
+    "date": "2026-11-19",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "健康づくり教室（保育付き・全3回）「はじめてのフラダンス体験講座」",
+    "url": "https://www.city.wako.lg.jp/kosodate/shogaigakushu/1004864/1004891/1009724/1011324.html",
+    "date": "2026-11-19",
+    "categories": [
+      "講座・教室（学ぶ・聞く）",
+      "体験（つくる・参加する）",
+      "子ども・子育て",
+      "事前申込必要"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【本館】令和8年度　図書館の本をスマホでらくらく予約Day",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010864/1013705.html",
+    "date": "2026-11-19",
+    "categories": [
+      "講座・教室（学ぶ・聞く）"
+    ],
+    "source": "和光市公式"
+  },
+  {
     "title": "未来につなぐ　森づくりキッズ",
     "url": "https://www.seibu-green.co.jp/wako-jurin/event/2026103116380713236.html",
     "date": "2026-11-21",
@@ -626,7 +655,7 @@
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "体験（つくる・参加する）",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -659,7 +688,7 @@
     "categories": [
       "講座・教室（学ぶ・聞く）",
       "体験（つくる・参加する）",
-      "事前申込必要"
+      "募集終了"
     ],
     "source": "和光市公式"
   },
@@ -732,6 +761,16 @@
       "講座・教室（学ぶ・聞く）",
       "体験（つくる・参加する）",
       "募集終了"
+    ],
+    "source": "和光市公式"
+  },
+  {
+    "title": "【分館】12/5（土曜）「こねこね石けんで鏡餅をつくろう」",
+    "url": "https://www.city.wako.lg.jp/kosodate/tosho/1010881/1014129.html",
+    "date": "2026-12-05",
+    "categories": [
+      "体験（つくる・参加する）",
+      "事前申込必要"
     ],
     "source": "和光市公式"
   },
@@ -937,6 +976,26 @@
     ],
     "source": "サンアゼリア",
     "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2027/01/270120チラシ表-212x300.jpg"
+  },
+  {
+    "title": "サンアゼリア寄席 志ん輔三昧　古今亭志ん輔",
+    "url": "https://www.sunazalea.or.jp/event/20270204-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e5%af%84%e5%b8%ad-%e5%bf%97%e3%82%93%e8%bc%94%e4%b8%89%e6%98%a7%e3%80%80%e5%8f%a4%e4%bb%8a%e4%ba%ad%e5%bf%97%e3%82%93%e8%bc%94/",
+    "date": "2027-02-04",
+    "categories": [
+      "小ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2027/02/サンアゼリア寄席古今亭志ん輔ol.jpg"
+  },
+  {
+    "title": "サンアゼリアシアター「シンペイ歌こそすべて」",
+    "url": "https://www.sunazalea.or.jp/event/20270318-%e3%82%b5%e3%83%b3%e3%82%a2%e3%82%bc%e3%83%aa%e3%82%a2%e3%82%b7%e3%82%a2%e3%82%bf%e3%83%bc%e3%80%8c%e3%82%b7%e3%83%b3%e3%83%9a%e3%82%a4%e6%ad%8c%e3%81%93%e3%81%9d%e3%81%99%e3%81%b9%e3%81%a6%e3%80%8d/",
+    "date": "2027-03-18",
+    "categories": [
+      "大ホール"
+    ],
+    "source": "サンアゼリア",
+    "imageUrl": "https://www.sunazalea.or.jp/wp-content/uploads/2027/03/シンペイ歌こそすべてomote-212x300.jpg"
   },
   {
     "title": "中村雅俊コンサート 2027",
