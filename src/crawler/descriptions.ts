@@ -77,7 +77,32 @@ export function parseDescription(html: string): string | null {
     return text.length > MAX_LENGTH ? text.slice(0, MAX_LENGTH) + '…' : text;
 }
 
-export async function fetchDescription(url: string): Promise<string | null> {
+export interface PageDetails {
+    description: string | null;
+    imageUrl: string | null; // og:image / twitter:image（表示用に参照するだけ。転載はしない）
+}
+
+function extractImage(html: string, baseUrl: string): string | null {
+    const raw =
+        extractMeta(html, 'property', 'og:image') ??
+        extractMeta(html, 'name', 'twitter:image');
+    if (!raw) return null;
+    try {
+        return new URL(raw, baseUrl).href;
+    } catch {
+        return null;
+    }
+}
+
+export function parsePageDetails(html: string, baseUrl: string): PageDetails {
+    return {
+        description: parseDescription(html),
+        imageUrl: extractImage(html, baseUrl),
+    };
+}
+
+export async function fetchPageDetails(url: string): Promise<PageDetails> {
+    const empty: PageDetails = { description: null, imageUrl: null };
     try {
         const controller = new AbortController();
         const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
@@ -91,29 +116,35 @@ export async function fetchDescription(url: string): Promise<string | null> {
             redirect: 'follow',
         });
         clearTimeout(timer);
-        if (!res.ok) return null;
+        if (!res.ok) return empty;
         const contentType = res.headers.get('content-type') || '';
-        if (!contentType.includes('text/html')) return null;
+        if (!contentType.includes('text/html')) return empty;
         const html = await res.text();
-        return parseDescription(html);
+        return parsePageDetails(html, res.url || url);
     } catch {
-        return null;
+        return empty;
     }
+}
+
+export async function fetchDescription(url: string): Promise<string | null> {
+    return (await fetchPageDetails(url)).description;
 }
 
 interface DescribableEvent {
     url: string;
     description?: string | null;
+    imageUrl?: string | null;
 }
 
-// 全イベントに説明文を付与する（同一URLは1回だけ取得）。失敗してもイベント自体は残す。
+// 全イベントに説明文を付与し、画像がないイベントには og:image で補完する（同一URLは1回だけ取得）。
+// 失敗してもイベント自体は残す。
 export async function enrichWithDescriptions<T extends DescribableEvent>(
     events: T[],
     concurrency = 4
 ): Promise<void> {
-    const cache = new Map<string, Promise<string | null>>();
-    const getDesc = (url: string) => {
-        if (!cache.has(url)) cache.set(url, fetchDescription(url));
+    const cache = new Map<string, Promise<PageDetails>>();
+    const getDetails = (url: string) => {
+        if (!cache.has(url)) cache.set(url, fetchPageDetails(url));
         return cache.get(url)!;
     };
 
@@ -122,12 +153,15 @@ export async function enrichWithDescriptions<T extends DescribableEvent>(
     const workers = Array.from({ length: concurrency }, async () => {
         while (index < events.length) {
             const ev = events[index++];
-            ev.description = await getDesc(ev.url);
+            const details = await getDetails(ev.url);
+            ev.description = details.description;
+            if (!ev.imageUrl && details.imageUrl) ev.imageUrl = details.imageUrl;
             done++;
             if (done % 20 === 0) console.log(`Descriptions: ${done}/${events.length}`);
         }
     });
     await Promise.all(workers);
     const withDesc = events.filter((e) => e.description).length;
-    console.log(`Descriptions attached: ${withDesc}/${events.length}`);
+    const withImage = events.filter((e) => e.imageUrl).length;
+    console.log(`Descriptions attached: ${withDesc}/${events.length}, images: ${withImage}/${events.length}`);
 }
