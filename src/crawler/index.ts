@@ -1,6 +1,7 @@
 import { chromium } from 'playwright';
 import fs from 'fs';
 import path from 'path';
+import { enrichWithDescriptions } from './descriptions';
 
 const BASE_URL = 'https://www.city.wako.lg.jp';
 const START_URL = 'https://www.city.wako.lg.jp/event_calendar.html';
@@ -13,6 +14,7 @@ interface Event {
     categories: string[];
     source: string;
     imageUrl?: string | null;
+    description?: string | null;
 }
 
 async function crawl() {
@@ -617,6 +619,9 @@ async function crawl() {
 
         // Sort all events by date
         allEvents.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+
+        // 公式ページから説明文を取得して付与（詳細ページ表示用）
+        await enrichWithDescriptions(allEvents);
 
         console.log(`Total events found: ${allEvents.length}`);
 

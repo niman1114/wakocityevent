@@ -21,6 +21,7 @@ function formatDate(dateStr: string) {
 }
 
 function buildDescription(event: Event): string {
+    if (event.description) return event.description;
     const parts = [
         `${formatDate(event.date)}に和光市周辺で開催されるイベント「${event.title}」の情報です。`,
         event.genre ? `ジャンル: ${event.genre}。` : '',
@@ -63,6 +64,7 @@ function buildJsonLd(event: Event, slug: string) {
         '@context': 'https://schema.org',
         '@type': 'Event',
         name: event.title,
+        ...(event.description ? { description: event.description } : {}),
         startDate: event.date.replace(/\//g, '-'),
         url: event.url,
         eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
@@ -133,6 +135,18 @@ export default async function EventDetailPage({
                     <div className="w-full aspect-[16/9] rounded-2xl mb-8 flex items-center justify-center bg-gradient-to-br from-sky-50 via-white to-emerald-50">
                         <span className="text-6xl opacity-50">{getGenreIcon(event.genre || 'その他')}</span>
                     </div>
+                )}
+
+                {event.description && (
+                    <section className="mb-8">
+                        <h2 className="text-lg font-bold text-gray-900 mb-3">イベントについて</h2>
+                        <p className="text-base leading-relaxed text-gray-700 whitespace-pre-wrap">
+                            {event.description}
+                        </p>
+                        <p className="text-xs text-gray-400 mt-2">
+                            ※公式サイトの情報をもとに掲載しています。最新情報は公式サイトでご確認ください。
+                        </p>
+                    </section>
                 )}
 
                 <dl className="bg-white rounded-2xl border border-gray-100 shadow-sm p-6 space-y-4 mb-8">

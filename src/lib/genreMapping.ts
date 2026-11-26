@@ -45,6 +45,7 @@ export interface Event {
     source: string;
     genre?: string; // 追加: マッピングされたジャンル
     imageUrl?: string | null; // 追加: 画像URL
+    description?: string | null; // 追加: 公式ページから取得した説明文
 }
 
 // イベントにジャンルを割り当てる関数
