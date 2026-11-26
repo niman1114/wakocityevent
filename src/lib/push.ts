@@ -13,10 +13,20 @@ export interface StoredSubscription {
     keys: { p256dh: string; auth: string };
 }
 
+// Vercel KV (Upstash) auto-creates KV_REST_API_*; a direct Upstash integration
+// creates UPSTASH_REDIS_REST_*. Accept either naming.
+function redisUrl(): string | undefined {
+    return process.env.UPSTASH_REDIS_REST_URL || process.env.KV_REST_API_URL;
+}
+
+function redisToken(): string | undefined {
+    return process.env.UPSTASH_REDIS_REST_TOKEN || process.env.KV_REST_API_TOKEN;
+}
+
 export function pushConfigured(): boolean {
     return Boolean(
-        process.env.UPSTASH_REDIS_REST_URL &&
-            process.env.UPSTASH_REDIS_REST_TOKEN &&
+        redisUrl() &&
+            redisToken() &&
             process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY &&
             process.env.VAPID_PRIVATE_KEY
     );
@@ -24,8 +34,8 @@ export function pushConfigured(): boolean {
 
 export function getRedis(): Redis {
     return new Redis({
-        url: process.env.UPSTASH_REDIS_REST_URL!,
-        token: process.env.UPSTASH_REDIS_REST_TOKEN!,
+        url: redisUrl()!,
+        token: redisToken()!,
     });
 }
 
