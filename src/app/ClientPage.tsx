@@ -2,6 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import { EventCard } from '@/components/EventCard';
+import { PushSubscribe } from '@/components/PushSubscribe';
 import { getGenres, getGenreIcon, type Event } from '@/lib/genreMapping';
 import { useBookmarks } from '@/hooks/useBookmarks';
 
@@ -84,6 +85,9 @@ export default function ClientPage({ events, intro }: ClientPageProps) {
                         {intro}
                     </section>
                 )}
+
+                {/* Push通知の購読ボタン */}
+                <PushSubscribe />
 
                 {/* View Toggle (All vs Bookmarks) */}
                 <div className="flex justify-center mb-8">
