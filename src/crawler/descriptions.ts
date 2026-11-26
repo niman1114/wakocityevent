@@ -94,10 +94,38 @@ function extractImage(html: string, baseUrl: string): string | null {
     }
 }
 
+// 本文中のポスター・チラシ画像を探す（og:image がサイト共通画像の出典向け）。
+// 本文エリア（#HONBUN / main）の中だけを探し、テンプレート画像・バナー・アイコン等は除外する。
+function extractBodyImage(html: string, baseUrl: string): string | null {
+    const deny = /_template_|sns\/|icon|logo|common|header|footer|btn|spacer|blank|banner|navi|menu|pickup/i;
+
+    // 本文エリアに絞る（サイドバーや共通バナーを拾わないため）
+    let scope = html;
+    const honbun = html.search(/id=["']HONBUN["']/i);
+    const main = html.search(/<main[\s>]/i);
+    if (honbun >= 0) scope = html.slice(honbun, honbun + 60000);
+    else if (main >= 0) scope = html.slice(main, main + 60000);
+
+    const candidates: string[] = [];
+    for (const m of scope.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)) {
+        const src = m[1];
+        if (!/\.(jpe?g|png|webp)(\?|#|$)/i.test(src)) continue;
+        if (deny.test(src)) continue;
+        try {
+            candidates.push(new URL(src, baseUrl).href);
+        } catch {
+            // ignore invalid URLs
+        }
+    }
+    if (candidates.length === 0) return null;
+    // 和光市CMSの本文画像（/_page_/）を最優先、なければ最初の候補
+    return candidates.find((u) => u.includes('/_page_/')) ?? candidates[0];
+}
+
 export function parsePageDetails(html: string, baseUrl: string): PageDetails {
     return {
         description: parseDescription(html),
-        imageUrl: extractImage(html, baseUrl),
+        imageUrl: extractBodyImage(html, baseUrl) ?? extractImage(html, baseUrl),
     };
 }
 
@@ -155,7 +183,11 @@ export async function enrichWithDescriptions<T extends DescribableEvent>(
             const ev = events[index++];
             const details = await getDetails(ev.url);
             ev.description = details.description;
-            if (!ev.imageUrl && details.imageUrl) ev.imageUrl = details.imageUrl;
+            if (details.imageUrl) {
+                // 画像がない場合に補完。既存がサイト共通のテンプレート画像なら本文画像に差し替える
+                const currentIsGeneric = !!ev.imageUrl && /_template_|ogimage/i.test(ev.imageUrl);
+                if (!ev.imageUrl || currentIsGeneric) ev.imageUrl = details.imageUrl;
+            }
             done++;
             if (done % 20 === 0) console.log(`Descriptions: ${done}/${events.length}`);
         }
