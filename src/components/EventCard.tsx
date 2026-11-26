@@ -1,5 +1,7 @@
 import React from 'react';
+import Link from 'next/link';
 import { getGenreIcon } from '@/lib/genreMapping';
+import { eventSlug } from '@/lib/slug';
 
 interface EventProps {
     event: {
@@ -57,10 +59,7 @@ export const EventCard: React.FC<EventProps> = ({ event, isBookmarked, onToggleB
     };
 
     return (
-        <a
-            href={event.url}
-            target="_blank"
-            rel="noopener noreferrer"
+        <div
             className="group block bg-white rounded-xl overflow-hidden transition-all duration-500 hover:shadow-xl hover:-translate-y-1 h-full flex flex-col relative"
         >
             {/* Image Section */}
@@ -85,7 +84,7 @@ export const EventCard: React.FC<EventProps> = ({ event, isBookmarked, onToggleB
                 </div>
 
                 {/* Action Buttons */}
-                <div className="absolute top-3 right-3 flex gap-2">
+                <div className="absolute top-3 right-3 flex gap-2 z-10">
                     <button
                         onClick={handleShare}
                         className="p-2 rounded-full bg-white/90 backdrop-blur-sm text-gray-600 hover:text-indigo-600 hover:bg-white shadow-sm transition-all duration-200"
@@ -117,7 +116,12 @@ export const EventCard: React.FC<EventProps> = ({ event, isBookmarked, onToggleB
                         {formatDate(event.date)}
                     </p>
                     <h3 className="text-lg font-bold text-gray-900 leading-snug group-hover:text-gray-600 transition-colors line-clamp-2">
-                        {event.title}
+                        <Link
+                            href={`/events/${eventSlug(event)}`}
+                            className="after:absolute after:inset-0 focus:outline-none"
+                        >
+                            {event.title}
+                        </Link>
                     </h3>
                 </div>
 
@@ -137,13 +141,16 @@ export const EventCard: React.FC<EventProps> = ({ event, isBookmarked, onToggleB
                             </span>
                         )}
                     </div>
-                    <div className="w-8 h-8 rounded-full bg-gray-50 flex items-center justify-center group-hover:bg-gray-900 transition-colors duration-300">
-                        <svg className="w-4 h-4 text-gray-400 group-hover:text-white transition-colors duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-                        </svg>
-                    </div>
+                    <a
+                        href={event.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="relative z-10 text-[11px] font-medium text-gray-500 hover:text-gray-900 underline underline-offset-2 whitespace-nowrap"
+                    >
+                        公式サイト
+                    </a>
                 </div>
             </div>
-        </a>
+        </div>
     );
 };
